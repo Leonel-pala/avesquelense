@@ -13,7 +13,7 @@ window.addEventListener('load', e=>{
     .then(response => response.json())
     .then(data =>{
         let largo = Object.keys(data).length;
-        for (let i = 1; i <= largo ; i++) {
+        for (let i = 1; i <= 44 ; i++) {
                 enciclo.innerHTML += `<article id="${data[i].nombre}">
                 <span class="reference">${i}.</span>
                 <span class="stick"></span>

@@ -1,37 +1,37 @@
 {
     "1": {
-      "nombre": "Loica",
+      "nombre": "loica",
       "descripcion": "La loica es un ave colorida y activa, conocida por su plumaje rojo y negro. Se encuentra comúnmente en zonas de pastizales y campos abiertos.",
       "url": "./style/img/birds/loica.webp"
     },
     "2": {
-      "nombre": "Bandurria",
+      "nombre": "bandurria",
       "descripcion": "La bandurria es un ave grande con un plumaje mayoritariamente negro y blanco. Suele habitar en áreas cercanas a cuerpos de agua y se alimenta de insectos y pequeños vertebrados.",
       "url": "./style/img/birds/bandurria.webp"
     },
     "3": {
-      "nombre": "Chimango",
+      "nombre": "chimango",
       "descripcion": "El chimango es un ave rapaz que se encuentra comúnmente en América del Sur. Tiene un plumaje oscuro y se alimenta de carroña, así como de pequeños animales.",
       "url": "./style/img/birds/chimango.webp"
     },
     "4": {
-      "nombre": "Diucón",
+      "nombre": "diucón",
       "descripcion": "El diucon es un ave de tamaño mediano con un plumaje principalmente gris. Es conocido por su canto melodioso y se encuentra en diversas regiones de Sudamérica.",
       "url": "./style/img/birds/diucon.webp"
     },
     "5": {
-      "nombre": "Tero",
+      "nombre": "tero",
       "descripcion": "El tero, también conocido como chorlito, es un ave migratoria que se encuentra en América. Tiene un plumaje terroso y es conocido por su llamado característico.",
       "url": "./style/img/birds/tero.webp"
     },
     "6": {
-      "nombre": "Zorzal",
+      "nombre": "zorzal",
       "descripcion": "El zorsal es un ave canora con un plumaje variado y colorido. Es conocido por su canto melodioso y se encuentra en diversas regiones de América.",
       "url": "./style/img/birds/zorsal.webp"
     },
-    "7": { "nombre": "Choique",
+    "7": { "nombre": "choique",
     "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
-    "url": "./style/img/birds/Choique.webp"
+    "url": "./style/img/birds/choique.webp"
     },
     "8": { "nombre": "marineta comun",
     "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
@@ -81,9 +81,9 @@
     "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
     "url": "./style/img/birds/garza bruja.webp"
     },
-    "20": { "nombre": "bandurria austral",
+    "20": { "nombre": "pato overo",
     "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
-    "url": "./style/img/birds/bandurria austral.webp"
+    "url": "./style/img/birds/pato overo.webp"
     },
     "21": { "nombre": "cuervillo de cañada",
     "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
@@ -97,9 +97,9 @@
     "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
     "url": "./style/img/birds/coscoroba.webp"
     },
-    "24": { "nombre": "cicne cuello negro",
+    "24": { "nombre": "cisne cuello negro",
     "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
-    "url": "./style/img/birds/cicne cuello negro.webp"
+    "url": "./style/img/birds/cisne cuello negro.webp"
     },
     "25": { "nombre": "pato crestón",
     "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
@@ -111,7 +111,7 @@
     },
     "27": { "nombre": "cauquen real",
     "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
-    "url": "./style/img/birds/cauquen real,pato anteojos. pato overo.webp"
+    "url": "./style/img/birds/cauquen real.webp"
     },
     "28": { "nombre": "pato maicero",
     "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
@@ -169,9 +169,9 @@
     "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
     "url": "./style/img/birds/gavilan mixto.webp"
     },
-    "42": { "nombre": " gavilan ceniciento",
+    "42": { "nombre": "gavilan ceniciento",
     "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
-    "url": "./style/img/birds/ gavilan ceniciento.webp"
+    "url": "./style/img/birds/gavilan ceniciento.webp"
     },
     "43": { "nombre": "aguilucho comun",
     "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
@@ -648,10 +648,6 @@
     "161": { "nombre": "pato anteojos",
     "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
     "url": "./style/img/birds/pato anteojos.webp"
-    },
-    "162": { "nombre": "pato overo",
-    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
-    "url": "./style/img/birds/pato overo.webp"
     }
   }
  
