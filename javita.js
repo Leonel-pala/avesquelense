@@ -9,7 +9,7 @@
          */
 window.addEventListener('load', e=>{
     let enciclo = document.querySelector('#enciclo')
-    fetch('../base.json')
+    fetch('./base.json')
     .then(response => response.json())
     .then(data =>{
         let largo = Object.keys(data).length;
