@@ -33,4 +33,13 @@ window.addEventListener('load', e=>{
             :ave.classList.add('filtro')    
         })
     })
+    let conteinerSearch = document.querySelector('#conteinerSearch')
+    let btnSearch = document.querySelector('#btnSearch')
+    btnSearch.addEventListener('click', e=>{
+        if(conteinerSearch.classList.value == ''){
+            conteinerSearch.classList.add('show')
+        }else if (conteinerSearch.classList.value == 'show') {
+            conteinerSearch.classList.remove('show')
+        }
+    })
 })
