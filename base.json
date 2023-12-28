@@ -1,653 +1,967 @@
 {
-    "1": {
-      "nombre": "loica",
-      "descripcion": "La loica es un ave colorida y activa, conocida por su plumaje rojo y negro. Se encuentra comúnmente en zonas de pastizales y campos abiertos.",
-      "url": "./style/img/birds/loica.webp"
-    },
-    "2": {
-      "nombre": "bandurria",
-      "descripcion": "La bandurria es un ave grande con un plumaje mayoritariamente negro y blanco. Suele habitar en áreas cercanas a cuerpos de agua y se alimenta de insectos y pequeños vertebrados.",
-      "url": "./style/img/birds/bandurria.webp"
-    },
-    "3": {
-      "nombre": "chimango",
-      "descripcion": "El chimango es un ave rapaz que se encuentra comúnmente en América del Sur. Tiene un plumaje oscuro y se alimenta de carroña, así como de pequeños animales.",
-      "url": "./style/img/birds/chimango.webp"
-    },
-    "4": {
-      "nombre": "diucón",
-      "descripcion": "El diucon es un ave de tamaño mediano con un plumaje principalmente gris. Es conocido por su canto melodioso y se encuentra en diversas regiones de Sudamérica.",
-      "url": "./style/img/birds/diucon.webp"
-    },
-    "5": {
-      "nombre": "tero",
-      "descripcion": "El tero, también conocido como chorlito, es un ave migratoria que se encuentra en América. Tiene un plumaje terroso y es conocido por su llamado característico.",
-      "url": "./style/img/birds/tero.webp"
-    },
-    "6": {
-      "nombre": "zorzal",
-      "descripcion": "El zorsal es un ave canora con un plumaje variado y colorido. Es conocido por su canto melodioso y se encuentra en diversas regiones de América.",
-      "url": "./style/img/birds/zorsal.webp"
-    },
-    "7": { "nombre": "choique",
-    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
-    "url": "./style/img/birds/choique.webp"
-    },
-    "8": { "nombre": "marineta comun",
-    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
-    "url": "./style/img/birds/marineta comun.webp"
-    },
-    "9": { "nombre": "quiula patagonica",
-    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
-    "url": "./style/img/birds/quiula patagonica.webp"
-    },
-    "10": { "nombre": "maca comun",
-    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
-    "url": "./style/img/birds/maca comun.webp"
-    },
-    "11": { "nombre": "maca plateado",
-    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
-    "url": "./style/img/birds/maca plateado.webp"
-    },
-    "12": { "nombre": "maca pico grueso",
-    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
-    "url": "./style/img/birds/maca pico grueso.webp"
-    },
-    "13": { "nombre": "maca grande",
-    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
-    "url": "./style/img/birds/maca grande.webp"
-    },
-    "14": { "nombre": "bigua",
-    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
-    "url": "./style/img/birds/bigua.webp"
-    },
-    "15": { "nombre": "garza mora",
-    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
-    "url": "./style/img/birds/garza mora.webp"
-    },
-    "16": { "nombre": "garza blanca",
-    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
-    "url": "./style/img/birds/garza blanca.webp"
-    },
-    "17": { "nombre": "garcita blanca",
-    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
-    "url": "./style/img/birds/garcita blanca.webp"
-    },
-    "18": { "nombre": "garcita bueyera",
-    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
-    "url": "./style/img/birds/garcita bueyera.webp"
-    },
-    "19": { "nombre": "garza bruja",
-    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
-    "url": "./style/img/birds/garza bruja.webp"
-    },
-    "20": { "nombre": "pato overo",
-    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
-    "url": "./style/img/birds/pato overo.webp"
-    },
-    "21": { "nombre": "cuervillo de cañada",
-    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
-    "url": "./style/img/birds/cuervillo de cañada.webp"
-    },
-    "22": { "nombre": "flamenco austral",
-    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
-    "url": "./style/img/birds/flamenco austral.webp"
-    },
-    "23": { "nombre": "coscoroba",
-    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
-    "url": "./style/img/birds/coscoroba.webp"
-    },
-    "24": { "nombre": "cisne cuello negro",
-    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
-    "url": "./style/img/birds/cisne cuello negro.webp"
-    },
-    "25": { "nombre": "pato crestón",
-    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
-    "url": "./style/img/birds/pato crestón.webp"
-    },
-    "26": { "nombre": "cauquen comun",
-    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
-    "url": "./style/img/birds/cauquen comun.webp"
-    },
-    "27": { "nombre": "cauquen real",
-    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
-    "url": "./style/img/birds/cauquen real.webp"
-    },
-    "28": { "nombre": "pato maicero",
-    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
-    "url": "./style/img/birds/pato maicero.webp"
-    },
-    "29": { "nombre": "pato barcino",
-    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
-    "url": "./style/img/birds/pato barcino.webp"
-    },
-    "30": { "nombre": "pato cuchara",
-    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
-    "url": "./style/img/birds/pato cuchara.webp"
-    },
-    "31": { "nombre": "pato colorado",
-    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
-    "url": "./style/img/birds/pato colorado.webp"
-    },
-    "32": { "nombre": "pato gargantilla",
-    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
-    "url": "./style/img/birds/pato gargantilla.webp"
-    },
-    "33": { "nombre": "pato capuchino",
-    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
-    "url": "./style/img/birds/pato capuchino.webp"
-    },
-    "34": { "nombre": "quetro volador",
-    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
-    "url": "./style/img/birds/quetro volador.webp"
-    },
-    "35": { "nombre": "pato picazo",
-    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
-    "url": "./style/img/birds/pato picazo.webp"
-    },
-    "36": { "nombre": "pato zambullidor chico",
-    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
-    "url": "./style/img/birds/pato zambullidor chico.webp"
-    },
-    "37": { "nombre": "condor andino",
-    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
-    "url": "./style/img/birds/condor andino.webp"
-    },
-    "38": { "nombre": "jote cabeza colorada",
-    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
-    "url": "./style/img/birds/jote cabeza colorada.webp"
-    },
-    "39": { "nombre": "jote cabeza negra",
-    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
-    "url": "./style/img/birds/jote cabeza negra.webp"
-    },
-    "40": { "nombre": "aguila mora",
-    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
-    "url": "./style/img/birds/aguila mora.webp"
-    },
-    "41": { "nombre": "gavilan mixto",
-    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
-    "url": "./style/img/birds/gavilan mixto.webp"
-    },
-    "42": { "nombre": "gavilan ceniciento",
-    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
-    "url": "./style/img/birds/gavilan ceniciento.webp"
-    },
-    "43": { "nombre": "aguilucho comun",
-    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
-    "url": "./style/img/birds/aguilucho comun.webp"
-    },
-    "44": { "nombre": "agilucho alas largas",
-    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
-    "url": "./style/img/birds/agilucho alas largas.webp"
-    },
-    "45": { "nombre": "halcon peregrino",
-    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
-    "url": "./style/img/birds/halcon peregrino.webp"
-    },
-    "46": { "nombre": "halcon plomizo",
-    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
-    "url": "./style/img/birds/halcon plomizo.webp"
-    },
-    "47": { "nombre": "halconcicto colorado",
-    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
-    "url": "./style/img/birds/halconcicto colorado.webp"
-    },
-    "48": { "nombre": "carancho",
-    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
-    "url": "./style/img/birds/carancho.webp"
-    },
-    "49": { "nombre": "codorniz de california",
-    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
-    "url": "./style/img/birds/codorniz de california.webp"
-    },
-    "50": { "nombre": "aguatero",
-    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
-    "url": "./style/img/birds/aguatero.webp"
-    },
-    "51": { "nombre": "gallineta comun",
-    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
-    "url": "./style/img/birds/gallineta comun.webp"
-    },
-    "52": { "nombre": "gallineta chica",
-    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
-    "url": "./style/img/birds/gallineta chica.webp"
-    },
-    "53": { "nombre": "gallareta ligas rojas",
-    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
-    "url": "./style/img/birds/gallareta ligas rojas.webp"
-    },
-    "54": { "nombre": "gallareta chica",
-    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
-    "url": "./style/img/birds/gallareta chica.webp"
-    },
-    "55": { "nombre": "gallareta escudete rojo",
-    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
-    "url": "./style/img/birds/gallareta escudete rojo.webp"
-    },
-    "56": { "nombre": "pollona pintada",
-    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
-    "url": "./style/img/birds/pollona pintada.webp"
-    },
-    "57": { "nombre": "ostrero austral",
-    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
-    "url": "./style/img/birds/ostrero austral.webp"
-    },
-    "58": { "nombre": "tero real",
-    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
-    "url": "./style/img/birds/tero real.webp"
-    },
-    "59": { "nombre": "chorlo pampa",
-    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
-    "url": "./style/img/birds/chorlo pampa.webp"
-    },
-    "60": { "nombre": "chorlo cabezon",
-    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
-    "url": "./style/img/birds/chorlo cabezon.webp"
-    },
-    "61": { "nombre": "chorlito doble collar",
-    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
-    "url": "./style/img/birds/chorlito doble collar.webp"
-    },
-    "62": { "nombre": "chorlito de collar",
-    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
-    "url": "./style/img/birds/chorlito de collar.webp"
-    },
-    "63": { "nombre": "chorlito pecho canela",
-    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
-    "url": "./style/img/birds/chorlito pecho canela.webp"
-    },
-    "64": { "nombre": "pitotoy grande",
-    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
-    "url": "./style/img/birds/pitotoy grande.webp"
-    },
-    "65": { "nombre": "pitotoy chico",
-    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
-    "url": "./style/img/birds/pitotoy chico.webp"
-    },
-    "66": { "nombre": "becasa de mar",
-    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
-    "url": "./style/img/birds/becasa de mar.webp"
-    },
-    "67": { "nombre": "platerito pectoral",
-    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
-    "url": "./style/img/birds/platerito pectoral.webp"
-    },
-    "68": { "nombre": "playerito rabadilla blanca",
-    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
-    "url": "./style/img/birds/playerito rabadilla blanca.webp"
-    },
-    "69": { "nombre": "playerito unicolor",
-    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
-    "url": "./style/img/birds/playerito unicolor.webp"
-    },
-    "70": { "nombre": "becasina comun",
-    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
-    "url": "./style/img/birds/becasina comun.webp"
-    },
-    "71": { "nombre": "falaropo comun",
-    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
-    "url": "./style/img/birds/falaropo comun.webp"
-    },
-    "72": { "nombre": "afachona chica",
-    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
-    "url": "./style/img/birds/afachona chica.webp"
-    },
-    "73": { "nombre": "agachona de collar",
-    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
-    "url": "./style/img/birds/agachona de collar.webp"
-    },
-    "74": { "nombre": "gaviote cocinera",
-    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
-    "url": "./style/img/birds/gaviote cocinera.webp"
-    },
-    "75": { "nombre": "gaviota capucho cafe",
-    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
-    "url": "./style/img/birds/gaviota capucho cafe.webp"
-    },
-    "76": { "nombre": "paloma manchada",
-    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
-    "url": "./style/img/birds/paloma manchada.webp"
-    },
-    "77": { "nombre": "paloma casera",
-    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
-    "url": "./style/img/birds/paloma casera.webp"
-    },
-    "78": { "nombre": "torcaza",
-    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
-    "url": "./style/img/birds/torcaza.webp"
-    },
-    "79": { "nombre": "torcacita comun",
-    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
-    "url": "./style/img/birds/torcacita comun.webp"
-    },
-    "80": { "nombre": "palomita cordillerana",
-    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
-    "url": "./style/img/birds/palomita cordillerana.webp"
-    },
-    "81": { "nombre": "loro barranquero",
-    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
-    "url": "./style/img/birds/loro barranquero.webp"
-    },
-    "82": { "nombre": "cachaña",
-    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
-    "url": "./style/img/birds/cachaña.webp"
-    },
-    "83": { "nombre": "lechuza de campanario",
-    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
-    "url": "./style/img/birds/lechuza de campanario.webp"
-    },
-    "84": { "nombre": "ñacurutú",
-    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
-    "url": "./style/img/birds/ñacurutú.webp"
-    },
-    "85": { "nombre": "lechucita vizcachera",
-    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
-    "url": "./style/img/birds/lechucita vizcachera.webp"
-    },
-    "86": { "nombre": "cabure grande",
-    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
-    "url": "./style/img/birds/cabure grande.webp"
-    },
-    "87": { "nombre": "lechuzon de campo",
-    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
-    "url": "./style/img/birds/lechuzon de campo.webp"
-    },
-    "88": { "nombre": "atajacaminos ñañarca",
-    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
-    "url": "./style/img/birds/atajacaminos ñañarca.webp"
-    },
-    "89": { "nombre": "ñacunda",
-    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
-    "url": "./style/img/birds/ñacunda.webp"
-    },
-    "90": { "nombre": "picaflor andino",
-    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
-    "url": "./style/img/birds/picaflor andino.webp"
-    },
-    "91": { "nombre": "picaflor rubi",
-    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
-    "url": "./style/img/birds/picaflor rubi.webp"
-    },
-    "92": { "nombre": "martin pescador grande",
-    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
-    "url": "./style/img/birds/martin pescador grande.webp"
-    },
-    "93": { "nombre": "carpintero pitio",
-    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
-    "url": "./style/img/birds/carpintero pitio.webp"
-    },
-    "94": { "nombre": "carpintero bataraz grande",
-    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
-    "url": "./style/img/birds/carpintero bataraz grande.webp"
-    },
-    "95": { "nombre": "carpintero gigante",
-    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
-    "url": "./style/img/birds/carpintero gigante.webp"
-    },
-    "96": { "nombre": "caminera colorada",
-    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
-    "url": "./style/img/birds/caminera colorada.webp"
-    },
-    "97": { "nombre": "caminera comun",
-    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
-    "url": "./style/img/birds/caminera comun.webp"
-    },
-    "98": { "nombre": "bandurrita comun",
-    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
-    "url": "./style/img/birds/bandurrita comun.webp"
-    },
-    "99": { "nombre": "bandurrita pico recto",
-    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
-    "url": "./style/img/birds/bandurrita pico recto.webp"
-    },
-    "100": { "nombre": "bandurrita patagonica",
-    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
-    "url": "./style/img/birds/bandurrita patagonica.webp"
-    },
-    "101": { "nombre": "remolinera comun",
-    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
-    "url": "./style/img/birds/remolinera comun.webp"
-    },
-    "102": { "nombre": "hornero",
-    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
-    "url": "./style/img/birds/hornero.webp"
-    },
-    "103": { "nombre": "cacholote pardo",
-    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
-    "url": "./style/img/birds/cacholote pardo.webp"
-    },
-    "104": { "nombre": "junquero",
-    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
-    "url": "./style/img/birds/junquero.webp"
-    },
-    "105": { "nombre": "colilarga",
-    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
-    "url": "./style/img/birds/colilarga.webp"
-    },
-    "106": { "nombre": "ralladito",
-    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
-    "url": "./style/img/birds/ralladito.webp"
-    },
-    "107": { "nombre": "canastero coludo",
-    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
-    "url": "./style/img/birds/canastero coludo.webp"
-    },
-    "108": { "nombre": "canastero palido",
-    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
-    "url": "./style/img/birds/canastero palido.webp"
-    },
-    "109": { "nombre": "canastero patagonico",
-    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
-    "url": "./style/img/birds/canastero patagonico.webp"
-    },
-    "110": { "nombre": "espartillero austral",
-    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
-    "url": "./style/img/birds/espartillero austral.webp"
-    },
-    "111": { "nombre": "coludito cola negra",
-    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
-    "url": "./style/img/birds/coludito cola negra.webp"
-    },
-    "112": { "nombre": "picolezna patagonico",
-    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
-    "url": "./style/img/birds/picolezna patagonico.webp"
-    },
-    "113": { "nombre": "chucao",
-    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
-    "url": "./style/img/birds/chucao.webp"
-    },
-    "114": { "nombre": "huet-huet",
-    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
-    "url": "./style/img/birds/huet-huet.webp"
-    },
-    "115": { "nombre": "churrin andino",
-    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
-    "url": "./style/img/birds/churrin andino.webp"
-    },
-    "116": { "nombre": "gaucho grande",
-    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
-    "url": "./style/img/birds/gaucho grande.webp"
-    },
-    "117": { "nombre": "gaucho comun",
-    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
-    "url": "./style/img/birds/gaucho comun.webp"
-    },
-    "118": { "nombre": "gaucho serrano",
-    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
-    "url": "./style/img/birds/gaucho serrano.webp"
-    },
-    "119": { "nombre": "monjita chocolate",
-    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
-    "url": "./style/img/birds/monjita chocolate.webp"
-    },
-    "120": { "nombre": "monjita castaña",
-    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
-    "url": "./style/img/birds/monjita castaña.webp"
-    },
-    "121": { "nombre": "dormilona cara negra",
-    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
-    "url": "./style/img/birds/dormilona cara negra.webp"
-    },
-    "122": { "nombre": "dorminola canela",
-    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
-    "url": "./style/img/birds/dorminola canela.webp"
-    },
-    "123": { "nombre": "dormilona ceja blanca",
-    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
-    "url": "./style/img/birds/dormilona ceja blanca.webp"
-    },
-    "124": { "nombre": "dormilona fraile",
-    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
-    "url": "./style/img/birds/dormilona fraile.webp"
-    },
-    "125": { "nombre": "dormilona chica",
-    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
-    "url": "./style/img/birds/dormilona chica.webp"
-    },
-    "126": { "nombre": "sobrepuesto comun",
-    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
-    "url": "./style/img/birds/sobrepuesto comun.webp"
-    },
-    "127": { "nombre": "pico de plata",
-    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
-    "url": "./style/img/birds/pico de plata.webp"
-    },
-    "128": { "nombre": "viudita comun",
-    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
-    "url": "./style/img/birds/viudita comun.webp"
-    },
-    "129": { "nombre": "viudita chica",
-    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
-    "url": "./style/img/birds/viudita chica.webp"
-    },
-    "130": { "nombre": "tachuri sietecolores",
-    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
-    "url": "./style/img/birds/tachuri sietecolores.webp"
-    },
-    "131": { "nombre": "cachudito pico negro",
-    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
-    "url": "./style/img/birds/cachudito pico negro.webp"
-    },
-    "132": { "nombre": "fiofio silbon",
-    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
-    "url": "./style/img/birds/fiofio silbon.webp"
-    },
-    "133": { "nombre": "peutren",
-    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
-    "url": "./style/img/birds/peutren.webp"
-    },
-    "134": { "nombre": "rara",
-    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
-    "url": "./style/img/birds/rara.webp"
-    },
-    "135": { "nombre": "golondrina tijerita",
-    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
-    "url": "./style/img/birds/golondrina tijerita.webp"
-    },
-    "136": { "nombre": "golondrina rabadilla canela",
-    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
-    "url": "./style/img/birds/golondrina rabadilla canela.webp"
-    },
-    "137": { "nombre": "golondrina negra",
-    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
-    "url": "./style/img/birds/golondrina negra.webp"
-    },
-    "138": { "nombre": "golondrina patagonica",
-    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
-    "url": "./style/img/birds/golondrina patagonica.webp"
-    },
-    "139": { "nombre": "golondrina barranquera",
-    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
-    "url": "./style/img/birds/golondrina barranquera.webp"
-    },
-    "140": { "nombre": "ratona aperdizada",
-    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
-    "url": "./style/img/birds/ratona aperdizada.webp"
-    },
-    "141": { "nombre": "ratona comun",
-    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
-    "url": "./style/img/birds/ratona comun.webp"
-    },
-    "142": { "nombre": "calandria comun",
-    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
-    "url": "./style/img/birds/calandria comun.webp"
-    },
-    "143": { "nombre": "cachirla comun",
-    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
-    "url": "./style/img/birds/cachirla comun.webp"
-    },
-    "144": { "nombre": "cachirla palida",
-    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
-    "url": "./style/img/birds/cachirla palida.webp"
-    },
-    "145": { "nombre": "gorrion",
-    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
-    "url": "./style/img/birds/gorrion.webp"
-    },
-    "146": { "nombre": "yalandino",
-    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
-    "url": "./style/img/birds/yalandino.webp"
-    },
-    "147": { "nombre": "diuca comun",
-    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
-    "url": "./style/img/birds/diuca comun.webp"
-    },
-    "148": { "nombre": "comesebo andino",
-    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
-    "url": "./style/img/birds/comesebo andino.webp"
-    },
-    "149": { "nombre": "comesebo patagonico",
-    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
-    "url": "./style/img/birds/comesebo patagonico.webp"
-    },
-    "150": { "nombre": "yal plomizo",
-    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
-    "url": "./style/img/birds/yal plomizo.webp"
-    },
-    "151": { "nombre": "yal negro",
-    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
-    "url": "./style/img/birds/yal negro.webp"
-    },
-    "152": { "nombre": "yal carbonero",
-    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
-    "url": "./style/img/birds/yal carbonero.webp"
-    },
-    "153": { "nombre": "misto",
-    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
-    "url": "./style/img/birds/misto.webp"
-    },
-    "154": { "nombre": "jilguero austral",
-    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
-    "url": "./style/img/birds/jilguero austral.webp"
-    },
-    "155": { "nombre": "chingolo",
-    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
-    "url": "./style/img/birds/chingolo.webp"
-    },
-    "156": { "nombre": "cabecita negra austral",
-    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
-    "url": "./style/img/birds/cabecita negra austral.webp"
-    },
-    "157": { "nombre": "varillero ala amarilla",
-    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
-    "url": "./style/img/birds/varillero ala amarilla.webp"
-    },
-    "158": { "nombre": "tordo patagonico",
-    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
-    "url": "./style/img/birds/tordo patagonico.webp"
-    },
-    "159": { "nombre": "tordo renegrido",
-    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
-    "url": "./style/img/birds/tordo renegrido.webp"
-    },
-    "160": { "nombre": "tordo musico",
-    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
-    "url": "./style/img/birds/tordo musico.webp"
-    },
-    "161": { "nombre": "pato anteojos",
+  "1": {
+    "nombre": "loica",
+    "descripcion": "La loica es un ave colorida y activa, conocida por su plumaje rojo y negro. Se encuentra comúnmente en zonas de pastizales y campos abiertos.",
+    "url": "./style/img/birds/loica.webp",
+    "familia": ""
+  },
+  "2": {
+    "nombre": "bandurria",
+    "descripcion": "La bandurria es un ave grande con un plumaje mayoritariamente negro y blanco. Suele habitar en áreas cercanas a cuerpos de agua y se alimenta de insectos y pequeños vertebrados.",
+    "url": "./style/img/birds/bandurria.webp",
+    "familia": "Threskiornithidae"
+  },
+  "3": {
+    "nombre": "chimango",
+    "descripcion": "El chimango es un ave rapaz que se encuentra comúnmente en América del Sur. Tiene un plumaje oscuro y se alimenta de carroña, así como de pequeños animales.",
+    "url": "./style/img/birds/chimango.webp",
+    "familia": ""
+  },
+  "4": {
+    "nombre": "diucón",
+    "descripcion": "El diucon es un ave de tamaño mediano con un plumaje principalmente gris. Es conocido por su canto melodioso y se encuentra en diversas regiones de Sudamérica.",
+    "url": "./style/img/birds/diucon.webp",
+    "familia": ""
+  },
+  "5": {
+    "nombre": "tero",
+    "descripcion": "El tero, también conocido como chorlito, es un ave migratoria que se encuentra en América. Tiene un plumaje terroso y es conocido por su llamado característico.",
+    "url": "./style/img/birds/tero.webp",
+    "familia": ""
+  },
+  "6": {
+    "nombre": "zorzal",
+    "descripcion": "El zorsal es un ave canora con un plumaje variado y colorido. Es conocido por su canto melodioso y se encuentra en diversas regiones de América.",
+    "url": "./style/img/birds/zorsal.webp",
+    "familia": ""
+  },
+  "7": {
+    "nombre": "choique",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
+    "url": "./style/img/birds/choique.webp",
+    "familia": "Rheidae"
+  },
+  "8": {
+    "nombre": "marineta comun",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
+    "url": "./style/img/birds/marineta comun.webp",
+    "familia": "Tinamidae"
+  },
+  "9": {
+    "nombre": "quiula patagonica",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
+    "url": "./style/img/birds/quiula patagonica.webp",
+    "familia": "Tinamidae"
+  },
+  "10": {
+    "nombre": "maca comun",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
+    "url": "./style/img/birds/maca comun.webp",
+    "familia": "Podicipedidae"
+  },
+  "11": {
+    "nombre": "maca plateado",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
+    "url": "./style/img/birds/maca plateado.webp",
+    "familia": "Podicipedidae"
+  },
+  "12": {
+    "nombre": "maca pico grueso",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
+    "url": "./style/img/birds/maca pico grueso.webp",
+    "familia": "Podicipedidae"
+  },
+  "13": {
+    "nombre": "maca grande",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
+    "url": "./style/img/birds/maca grande.webp",
+    "familia": "Podicipedidae"
+  },
+  "14": {
+    "nombre": "bigua",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
+    "url": "./style/img/birds/bigua.webp",
+    "familia": "Phalacrocoracidae"
+  },
+  "15": {
+    "nombre": "garza mora",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
+    "url": "./style/img/birds/garza mora.webp",
+    "familia": "Ardeidae"
+  },
+  "16": {
+    "nombre": "garza blanca",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
+    "url": "./style/img/birds/garza blanca.webp",
+    "familia": "Ardeidae"
+  },
+  "17": {
+    "nombre": "garcita blanca",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
+    "url": "./style/img/birds/garcita blanca.webp",
+    "familia": "Ardeidae"
+  },
+  "18": {
+    "nombre": "garcita bueyera",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
+    "url": "./style/img/birds/garcita bueyera.webp",
+    "familia": "Ardeidae"
+  },
+  "19": {
+    "nombre": "garza bruja",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
+    "url": "./style/img/birds/garza bruja.webp",
+    "familia": "Ardeidae"
+  },
+  "20": {
+    "nombre": "pato overo",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
+    "url": "./style/img/birds/pato overo.webp",
+    "familia": "Anatidae"
+  },
+  "21": {
+    "nombre": "cuervillo de cañada",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
+    "url": "./style/img/birds/cuervillo de cañada.webp",
+    "familia": "Threskiornithidae"
+  },
+  "22": {
+    "nombre": "flamenco austral",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
+    "url": "./style/img/birds/flamenco austral.webp",
+    "familia": "Phoenicopteridae"
+  },
+  "23": {
+    "nombre": "coscoroba",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
+    "url": "./style/img/birds/coscoroba.webp",
+    "familia": "Anatidae"
+  },
+  "24": {
+    "nombre": "cisne cuello negro",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
+    "url": "./style/img/birds/cisne cuello negro.webp",
+    "familia": "Anatidae"
+  },
+  "25": {
+    "nombre": "pato crestón",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
+    "url": "./style/img/birds/pato crestón.webp",
+    "familia": "Anatidae"
+  },
+  "26": {
+    "nombre": "cauquen comun",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
+    "url": "./style/img/birds/cauquen comun.webp",
+    "familia": "Anatidae"
+  },
+  "27": {
+    "nombre": "cauquen real",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
+    "url": "./style/img/birds/cauquen real.webp",
+    "familia": "Anatidae"
+  },
+  "28": {
+    "nombre": "pato maicero",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
+    "url": "./style/img/birds/pato maicero.webp",
+    "familia": ""
+  },
+  "29": {
+    "nombre": "pato barcino",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
+    "url": "./style/img/birds/pato barcino.webp",
+    "familia": ""
+  },
+  "30": {
+    "nombre": "pato cuchara",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
+    "url": "./style/img/birds/pato cuchara.webp",
+    "familia": ""
+  },
+  "31": {
+    "nombre": "pato colorado",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
+    "url": "./style/img/birds/pato colorado.webp",
+    "familia": ""
+  },
+  "32": {
+    "nombre": "pato gargantilla",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
+    "url": "./style/img/birds/pato gargantilla.webp",
+    "familia": ""
+  },
+  "33": {
+    "nombre": "pato capuchino",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
+    "url": "./style/img/birds/pato capuchino.webp",
+    "familia": ""
+  },
+  "34": {
+    "nombre": "quetro volador",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
+    "url": "./style/img/birds/quetro volador.webp",
+    "familia": ""
+  },
+  "35": {
+    "nombre": "pato picazo",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
+    "url": "./style/img/birds/pato picazo.webp",
+    "familia": ""
+  },
+  "36": {
+    "nombre": "pato zambullidor chico",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
+    "url": "./style/img/birds/pato zambullidor chico.webp",
+    "familia": ""
+  },
+  "37": {
+    "nombre": "condor andino",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
+    "url": "./style/img/birds/condor andino.webp",
+    "familia": ""
+  },
+  "38": {
+    "nombre": "jote cabeza colorada",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
+    "url": "./style/img/birds/jote cabeza colorada.webp",
+    "familia": ""
+  },
+  "39": {
+    "nombre": "jote cabeza negra",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
+    "url": "./style/img/birds/jote cabeza negra.webp",
+    "familia": ""
+  },
+  "40": {
+    "nombre": "aguila mora",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
+    "url": "./style/img/birds/aguila mora.webp",
+    "familia": ""
+  },
+  "41": {
+    "nombre": "gavilan mixto",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
+    "url": "./style/img/birds/gavilan mixto.webp",
+    "familia": ""
+  },
+  "42": {
+    "nombre": "gavilan ceniciento",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
+    "url": "./style/img/birds/gavilan ceniciento.webp",
+    "familia": ""
+  },
+  "43": {
+    "nombre": "aguilucho comun",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
+    "url": "./style/img/birds/aguilucho comun.webp",
+    "familia": ""
+  },
+  "44": {
+    "nombre": "agilucho alas largas",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
+    "url": "./style/img/birds/agilucho alas largas.webp",
+    "familia": ""
+  },
+  "45": {
+    "nombre": "halcon peregrino",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
+    "url": "./style/img/birds/halcon peregrino.webp",
+    "familia": ""
+  },
+  "46": {
+    "nombre": "halcon plomizo",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
+    "url": "./style/img/birds/halcon plomizo.webp",
+    "familia": ""
+  },
+  "47": {
+    "nombre": "halconcicto colorado",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
+    "url": "./style/img/birds/halconcicto colorado.webp",
+    "familia": ""
+  },
+  "48": {
+    "nombre": "carancho",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
+    "url": "./style/img/birds/carancho.webp",
+    "familia": ""
+  },
+  "49": {
+    "nombre": "codorniz de california",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
+    "url": "./style/img/birds/codorniz de california.webp",
+    "familia": ""
+  },
+  "50": {
+    "nombre": "aguatero",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
+    "url": "./style/img/birds/aguatero.webp",
+    "familia": ""
+  },
+  "51": {
+    "nombre": "gallineta comun",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
+    "url": "./style/img/birds/gallineta comun.webp",
+    "familia": ""
+  },
+  "52": {
+    "nombre": "gallineta chica",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
+    "url": "./style/img/birds/gallineta chica.webp",
+    "familia": ""
+  },
+  "53": {
+    "nombre": "gallareta ligas rojas",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
+    "url": "./style/img/birds/gallareta ligas rojas.webp",
+    "familia": ""
+  },
+  "54": {
+    "nombre": "gallareta chica",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
+    "url": "./style/img/birds/gallareta chica.webp",
+    "familia": ""
+  },
+  "55": {
+    "nombre": "gallareta escudete rojo",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
+    "url": "./style/img/birds/gallareta escudete rojo.webp",
+    "familia": ""
+  },
+  "56": {
+    "nombre": "pollona pintada",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
+    "url": "./style/img/birds/pollona pintada.webp",
+    "familia": ""
+  },
+  "57": {
+    "nombre": "ostrero austral",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
+    "url": "./style/img/birds/ostrero austral.webp",
+    "familia": ""
+  },
+  "58": {
+    "nombre": "tero real",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
+    "url": "./style/img/birds/tero real.webp",
+    "familia": ""
+  },
+  "59": {
+    "nombre": "chorlo pampa",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
+    "url": "./style/img/birds/chorlo pampa.webp",
+    "familia": ""
+  },
+  "60": {
+    "nombre": "chorlo cabezon",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
+    "url": "./style/img/birds/chorlo cabezon.webp",
+    "familia": ""
+  },
+  "61": {
+    "nombre": "chorlito doble collar",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
+    "url": "./style/img/birds/chorlito doble collar.webp",
+    "familia": ""
+  },
+  "62": {
+    "nombre": "chorlito de collar",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
+    "url": "./style/img/birds/chorlito de collar.webp",
+    "familia": ""
+  },
+  "63": {
+    "nombre": "chorlito pecho canela",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
+    "url": "./style/img/birds/chorlito pecho canela.webp",
+    "familia": ""
+  },
+  "64": {
+    "nombre": "pitotoy grande",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
+    "url": "./style/img/birds/pitotoy grande.webp",
+    "familia": ""
+  },
+  "65": {
+    "nombre": "pitotoy chico",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
+    "url": "./style/img/birds/pitotoy chico.webp",
+    "familia": ""
+  },
+  "66": {
+    "nombre": "becasa de mar",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
+    "url": "./style/img/birds/becasa de mar.webp",
+    "familia": ""
+  },
+  "67": {
+    "nombre": "playerito pectoral",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
+    "url": "./style/img/birds/playerito pectoral.webp",
+    "familia": ""
+  },
+  "68": {
+    "nombre": "playerito rabadilla blanca",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
+    "url": "./style/img/birds/playerito rabadilla blanca.webp",
+    "familia": ""
+  },
+  "69": {
+    "nombre": "playerito unicolor",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
+    "url": "./style/img/birds/playerito unicolor.webp",
+    "familia": ""
+  },
+  "70": {
+    "nombre": "becasina comun",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
+    "url": "./style/img/birds/becasina comun.webp",
+    "familia": ""
+  },
+  "71": {
+    "nombre": "falaropo comun",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
+    "url": "./style/img/birds/falaropo comun.webp",
+    "familia": ""
+  },
+  "72": {
+    "nombre": "afachona chica",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
+    "url": "./style/img/birds/afachona chica.webp",
+    "familia": ""
+  },
+  "73": {
+    "nombre": "agachona de collar",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
+    "url": "./style/img/birds/agachona de collar.webp",
+    "familia": ""
+  },
+  "74": {
+    "nombre": "gaviote cocinera",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
+    "url": "./style/img/birds/gaviote cocinera.webp",
+    "familia": ""
+  },
+  "75": {
+    "nombre": "gaviota capucho cafe",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
+    "url": "./style/img/birds/gaviota capucho cafe.webp",
+    "familia": ""
+  },
+  "76": {
+    "nombre": "paloma manchada",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
+    "url": "./style/img/birds/paloma manchada.webp",
+    "familia": ""
+  },
+  "77": {
+    "nombre": "paloma casera",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
+    "url": "./style/img/birds/paloma casera.webp",
+    "familia": ""
+  },
+  "78": {
+    "nombre": "torcaza",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
+    "url": "./style/img/birds/torcaza.webp",
+    "familia": ""
+  },
+  "79": {
+    "nombre": "torcacita comun",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
+    "url": "./style/img/birds/torcacita comun.webp",
+    "familia": ""
+  },
+  "80": {
+    "nombre": "palomita cordillerana",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
+    "url": "./style/img/birds/palomita cordillerana.webp",
+    "familia": ""
+  },
+  "81": {
+    "nombre": "loro barranquero",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
+    "url": "./style/img/birds/loro barranquero.webp",
+    "familia": ""
+  },
+  "82": {
+    "nombre": "cachaña",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
+    "url": "./style/img/birds/cachaña.webp",
+    "familia": ""
+  },
+  "83": {
+    "nombre": "lechuza de campanario",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
+    "url": "./style/img/birds/lechuza de campanario.webp",
+    "familia": ""
+  },
+  "84": {
+    "nombre": "ñacurutú",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
+    "url": "./style/img/birds/ñacurutú.webp",
+    "familia": ""
+  },
+  "85": {
+    "nombre": "lechucita vizcachera",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
+    "url": "./style/img/birds/lechucita vizcachera.webp",
+    "familia": ""
+  },
+  "86": {
+    "nombre": "cabure grande",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
+    "url": "./style/img/birds/cabure grande.webp",
+    "familia": ""
+  },
+  "87": {
+    "nombre": "lechuzon de campo",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
+    "url": "./style/img/birds/lechuzon de campo.webp",
+    "familia": ""
+  },
+  "88": {
+    "nombre": "atajacaminos ñañarca",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
+    "url": "./style/img/birds/atajacaminos ñañarca.webp",
+    "familia": ""
+  },
+  "89": {
+    "nombre": "ñacunda",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
+    "url": "./style/img/birds/ñacunda.webp",
+    "familia": ""
+  },
+  "90": {
+    "nombre": "picaflor andino",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
+    "url": "./style/img/birds/picaflor andino.webp",
+    "familia": ""
+  },
+  "91": {
+    "nombre": "picaflor rubi",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
+    "url": "./style/img/birds/picaflor rubi.webp",
+    "familia": ""
+  },
+  "92": {
+    "nombre": "martin pescador grande",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
+    "url": "./style/img/birds/martin pescador grande.webp",
+    "familia": ""
+  },
+  "93": {
+    "nombre": "carpintero pitio",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
+    "url": "./style/img/birds/carpintero pitio.webp",
+    "familia": ""
+  },
+  "94": {
+    "nombre": "carpintero bataraz grande",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
+    "url": "./style/img/birds/carpintero bataraz grande.webp",
+    "familia": ""
+  },
+  "95": {
+    "nombre": "carpintero gigante",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
+    "url": "./style/img/birds/carpintero gigante.webp",
+    "familia": ""
+  },
+  "96": {
+    "nombre": "caminera colorada",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
+    "url": "./style/img/birds/caminera colorada.webp",
+    "familia": ""
+  },
+  "97": {
+    "nombre": "caminera comun",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
+    "url": "./style/img/birds/caminera comun.webp",
+    "familia": ""
+  },
+  "98": {
+    "nombre": "bandurrita comun",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
+    "url": "./style/img/birds/bandurrita comun.webp",
+    "familia": ""
+  },
+  "99": {
+    "nombre": "bandurrita pico recto",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
+    "url": "./style/img/birds/bandurrita pico recto.webp",
+    "familia": ""
+  },
+  "100": {
+    "nombre": "bandurrita patagonica",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
+    "url": "./style/img/birds/bandurrita patagonica.webp",
+    "familia": ""
+  },
+  "101": {
+    "nombre": "remolinera comun",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
+    "url": "./style/img/birds/remolinera comun.webp",
+    "familia": ""
+  },
+  "102": {
+    "nombre": "hornero",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
+    "url": "./style/img/birds/hornero.webp",
+    "familia": ""
+  },
+  "103": {
+    "nombre": "cacholote pardo",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
+    "url": "./style/img/birds/cacholote pardo.webp",
+    "familia": ""
+  },
+  "104": {
+    "nombre": "junquero",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
+    "url": "./style/img/birds/junquero.webp",
+    "familia": ""
+  },
+  "105": {
+    "nombre": "colilarga",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
+    "url": "./style/img/birds/colilarga.webp",
+    "familia": ""
+  },
+  "106": {
+    "nombre": "ralladito",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
+    "url": "./style/img/birds/ralladito.webp",
+    "familia": ""
+  },
+  "107": {
+    "nombre": "canastero coludo",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
+    "url": "./style/img/birds/canastero coludo.webp",
+    "familia": ""
+  },
+  "108": {
+    "nombre": "canastero palido",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
+    "url": "./style/img/birds/canastero palido.webp",
+    "familia": ""
+  },
+  "109": {
+    "nombre": "canastero patagonico",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
+    "url": "./style/img/birds/canastero patagonico.webp",
+    "familia": ""
+  },
+  "110": {
+    "nombre": "espartillero austral",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
+    "url": "./style/img/birds/espartillero austral.webp",
+    "familia": ""
+  },
+  "111": {
+    "nombre": "coludito cola negra",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
+    "url": "./style/img/birds/coludito cola negra.webp",
+    "familia": ""
+  },
+  "112": {
+    "nombre": "picolezna patagonico",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
+    "url": "./style/img/birds/picolezna patagonico.webp",
+    "familia": ""
+  },
+  "113": {
+    "nombre": "chucao",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
+    "url": "./style/img/birds/chucao.webp",
+    "familia": ""
+  },
+  "114": {
+    "nombre": "huet-huet",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
+    "url": "./style/img/birds/huet-huet.webp",
+    "familia": ""
+  },
+  "115": {
+    "nombre": "churrin andino",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
+    "url": "./style/img/birds/churrin andino.webp",
+    "familia": ""
+  },
+  "116": {
+    "nombre": "gaucho grande",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
+    "url": "./style/img/birds/gaucho grande.webp",
+    "familia": ""
+  },
+  "117": {
+    "nombre": "gaucho comun",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
+    "url": "./style/img/birds/gaucho comun.webp",
+    "familia": ""
+  },
+  "118": {
+    "nombre": "gaucho serrano",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
+    "url": "./style/img/birds/gaucho serrano.webp",
+    "familia": ""
+  },
+  "119": {
+    "nombre": "monjita chocolate",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
+    "url": "./style/img/birds/monjita chocolate.webp",
+    "familia": ""
+  },
+  "120": {
+    "nombre": "monjita castaña",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
+    "url": "./style/img/birds/monjita castaña.webp",
+    "familia": ""
+  },
+  "121": {
+    "nombre": "dormilona cara negra",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
+    "url": "./style/img/birds/dormilona cara negra.webp",
+    "familia": ""
+  },
+  "122": {
+    "nombre": "dorminola canela",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
+    "url": "./style/img/birds/dorminola canela.webp",
+    "familia": ""
+  },
+  "123": {
+    "nombre": "dormilona ceja blanca",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
+    "url": "./style/img/birds/dormilona ceja blanca.webp",
+    "familia": ""
+  },
+  "124": {
+    "nombre": "dormilona fraile",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
+    "url": "./style/img/birds/dormilona fraile.webp",
+    "familia": ""
+  },
+  "125": {
+    "nombre": "dormilona chica",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
+    "url": "./style/img/birds/dormilona chica.webp",
+    "familia": ""
+  },
+  "126": {
+    "nombre": "sobrepuesto comun",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
+    "url": "./style/img/birds/sobrepuesto comun.webp",
+    "familia": ""
+  },
+  "127": {
+    "nombre": "pico de plata",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
+    "url": "./style/img/birds/pico de plata.webp",
+    "familia": ""
+  },
+  "128": {
+    "nombre": "viudita comun",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
+    "url": "./style/img/birds/viudita comun.webp",
+    "familia": ""
+  },
+  "129": {
+    "nombre": "viudita chica",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
+    "url": "./style/img/birds/viudita chica.webp",
+    "familia": ""
+  },
+  "130": {
+    "nombre": "tachuri sietecolores",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
+    "url": "./style/img/birds/tachuri sietecolores.webp",
+    "familia": ""
+  },
+  "131": {
+    "nombre": "cachudito pico negro",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
+    "url": "./style/img/birds/cachudito pico negro.webp",
+    "familia": ""
+  },
+  "132": {
+    "nombre": "fiofio silbon",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
+    "url": "./style/img/birds/fiofio silbon.webp",
+    "familia": ""
+  },
+  "133": {
+    "nombre": "peutren",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
+    "url": "./style/img/birds/peutren.webp",
+    "familia": ""
+  },
+  "134": {
+    "nombre": "rara",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
+    "url": "./style/img/birds/rara.webp",
+    "familia": ""
+  },
+  "135": {
+    "nombre": "golondrina tijerita",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
+    "url": "./style/img/birds/golondrina tijerita.webp",
+    "familia": ""
+  },
+  "136": {
+    "nombre": "golondrina rabadilla canela",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
+    "url": "./style/img/birds/golondrina rabadilla canela.webp",
+    "familia": ""
+  },
+  "137": {
+    "nombre": "golondrina negra",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
+    "url": "./style/img/birds/golondrina negra.webp",
+    "familia": ""
+  },
+  "138": {
+    "nombre": "golondrina patagonica",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
+    "url": "./style/img/birds/golondrina patagonica.webp",
+    "familia": ""
+  },
+  "139": {
+    "nombre": "golondrina barranquera",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
+    "url": "./style/img/birds/golondrina barranquera.webp",
+    "familia": ""
+  },
+  "140": {
+    "nombre": "ratona aperdizada",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
+    "url": "./style/img/birds/ratona aperdizada.webp",
+    "familia": ""
+  },
+  "141": {
+    "nombre": "ratona comun",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
+    "url": "./style/img/birds/ratona comun.webp",
+    "familia": ""
+  },
+  "142": {
+    "nombre": "calandria comun",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
+    "url": "./style/img/birds/calandria comun.webp",
+    "familia": ""
+  },
+  "143": {
+    "nombre": "cachirla comun",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
+    "url": "./style/img/birds/cachirla comun.webp",
+    "familia": ""
+  },
+  "144": {
+    "nombre": "cachirla palida",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
+    "url": "./style/img/birds/cachirla palida.webp",
+    "familia": ""
+  },
+  "145": {
+    "nombre": "gorrion",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
+    "url": "./style/img/birds/gorrion.webp",
+    "familia": ""
+  },
+  "146": {
+    "nombre": "yalandino",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
+    "url": "./style/img/birds/yalandino.webp",
+    "familia": ""
+  },
+  "147": {
+    "nombre": "diuca comun",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
+    "url": "./style/img/birds/diuca comun.webp",
+    "familia": ""
+  },
+  "148": {
+    "nombre": "comesebo andino",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
+    "url": "./style/img/birds/comesebo andino.webp",
+    "familia": ""
+  },
+  "149": {
+    "nombre": "comesebo patagonico",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
+    "url": "./style/img/birds/comesebo patagonico.webp",
+    "familia": ""
+  },
+  "150": {
+    "nombre": "yal plomizo",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
+    "url": "./style/img/birds/yal plomizo.webp",
+    "familia": ""
+  },
+  "151": {
+    "nombre": "yal negro",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
+    "url": "./style/img/birds/yal negro.webp",
+    "familia": ""
+  },
+  "152": {
+    "nombre": "yal carbonero",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
+    "url": "./style/img/birds/yal carbonero.webp",
+    "familia": ""
+  },
+  "153": {
+    "nombre": "misto",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
+    "url": "./style/img/birds/misto.webp",
+    "familia": ""
+  },
+  "154": {
+    "nombre": "jilguero austral",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
+    "url": "./style/img/birds/jilguero austral.webp",
+    "familia": ""
+  },
+  "155": {
+    "nombre": "chingolo",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
+    "url": "./style/img/birds/chingolo.webp",
+    "familia": ""
+  },
+  "156": {
+    "nombre": "cabecita negra austral",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
+    "url": "./style/img/birds/cabecita negra austral.webp",
+    "familia": ""
+  },
+  "157": {
+    "nombre": "varillero ala amarilla",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
+    "url": "./style/img/birds/varillero ala amarilla.webp",
+    "familia": ""
+  },
+  "158": {
+    "nombre": "tordo patagonico",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
+    "url": "./style/img/birds/tordo patagonico.webp",
+    "familia": ""
+  },
+  "159": {
+    "nombre": "tordo renegrido",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
+    "url": "./style/img/birds/tordo renegrido.webp",
+    "familia": ""
+  },
+  "160": {
+    "nombre": "tordo musico",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
+    "url": "./style/img/birds/tordo musico.webp",
+    "familia": ""
+  },
+  "161": {
+    "nombre": "pato anteojos",
     "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eius, tempora sequi magni eos tempore odit deserunt accusantium sed, eaque dolores voluptatibus ducimus recusandae adipisci? Vel deserunt inventore odio? Quos!",
     "url": "./style/img/birds/pato anteojos.webp"
-    }
   }
- 
+}
