@@ -8,23 +8,65 @@
 </article>
          */
 window.addEventListener("load", (e) => {
-  let enciclo = document.querySelector("#enciclo");
-  fetch("./base.json")
-    .then((response) => response.json())
-    .then((data) => {
-      let aves = "";
-      let largo = Object.keys(data).length;
-      for (let i = 1; i <= 84; i++) {
-        enciclo.innerHTML += `<article id="${data[i].nombre}">
-                <span class="reference">${i}.</span>
-                <span class="stick"></span>
-                    <img class="birdIMG" src="${data[i].url}">
-                        <h5 class="birdNAME">${data[i].nombre}</h5>
-                    <p class="birdDES">${data[i].descripcion}</p>
-                <input class="birdBTN"type="button" value="Mas detalles" class="btn">
-            </article>`;
-      }
-    });
+  let aves = document.querySelector("#aves");
+  print("c", "a");
+  function print(x, y) {
+    fetch("./base.json")
+      .then((response) => response.json())
+      .then((data) => {
+        const lista = Object.values(data);
+        if (x == "a") {
+          lista.sort((a, b) => a.nombre.localeCompare(b.nombre));
+        } else if (x == "b") {
+          lista.sort((a, b) => b.nombre.localeCompare(a.nombre));
+        }
+
+        let largo = Object.keys(data).length;
+
+        if (y == "b") {
+          aves.innerHTML = "";
+          let family = [];
+          for (let x = 0; x < largo; x++) {
+            if (family.includes(lista[x].familia) == false) {
+              family.push(lista[x].familia);
+
+              document.querySelector("#aves").innerHTML += `
+              <div class="subtitle">
+      <h2>${lista[x].familia}</h2>
+      <span id="line"></span>
+    </div>
+    <div class="familia" id="${lista[x].familia}" class="enciclo"></div>`;
+            }
+          }
+          for (let i = 0; i <= largo; i++) {
+            document.querySelector(
+              `#${lista[i].familia}`
+            ).innerHTML += `<article id="${lista[i].nombre}">
+                  <span class="reference">${i}.</span>
+                  <span class="stick"></span>
+                      <img class="birdIMG" src="${lista[i].url}">
+                          <h5 class="birdNAME">${lista[i].nombre}</h5>
+                      <p class="birdDES">${lista[i].descripcion}</p>
+                  <input class="birdBTN"type="button" value="Mas detalles" class="btn">
+              </article>`;
+          }
+        } else {
+          document.querySelector("#aves").innerHTML =
+            '<div id="enciclo"></div>';
+          let enciclo = document.querySelector("#enciclo");
+          for (let i = 0; i <= largo; i++) {
+            enciclo.innerHTML += `<article id="${lista[i].nombre}">
+                  <span class="reference">${i}.</span>
+                  <span class="stick"></span>
+                      <img class="birdIMG" src="${lista[i].url}">
+                          <h5 class="birdNAME">${lista[i].nombre}</h5>
+                      <p class="birdDES">${lista[i].descripcion}</p>
+                  <input class="birdBTN"type="button" value="Mas detalles" class="btn">
+              </article>`;
+          }
+        }
+      });
+  }
 
   let search = document.querySelector("#search");
   search.addEventListener("input", (e) => {
@@ -34,13 +76,30 @@ window.addEventListener("load", (e) => {
         : ave.classList.add("filtro");
     });
   });
-  let conteinerSearch = document.querySelector("#conteinerSearch");
-  let btnSearch = document.querySelector("#btnSearch");
-  btnSearch.addEventListener("click", (e) => {
-    if (conteinerSearch.classList.value == "") {
-      conteinerSearch.classList.add("show");
-    } else if (conteinerSearch.classList.value == "show") {
-      conteinerSearch.classList.remove("show");
+  let options = document.querySelector("#options");
+
+  let btnOption = document.querySelector("#btnOption");
+  btnOption.addEventListener("click", (e) => {
+    if (options.classList.value == "") {
+      options.classList.add("show");
+    } else if (options.classList.value == "show") {
+      options.classList.remove("show");
     }
+  });
+
+  const opt = document.querySelectorAll(".sort");
+  opt.forEach((element) => {
+    element.addEventListener("click", (e) => {
+      opt.forEach((item) => item.classList.remove("active"));
+      element.classList.add("active");
+    });
+  });
+
+  const accept = document.querySelector("#accept");
+  accept.addEventListener("click", (e) => {
+    print(
+      document.querySelector(".active").getAttribute("value"),
+      document.querySelector("select").value
+    );
   });
 });

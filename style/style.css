@@ -1,275 +1,386 @@
-*{
-    padding: 0;
-    margin: 0;
+* {
+  padding: 0;
+  margin: 0;
 }
 @font-face {
-    font-family: 'Payfin';
-    src: url(../style/Fonts/PlayfairDisplay-Bold.ttf);
-    font-weight: bold;
-    font-style: bold;
+  font-family: "Payfin";
+  src: url(../style/Fonts/PlayfairDisplay-Bold.ttf);
+  font-weight: bold;
+  font-style: bold;
 }
 @font-face {
-    font-family: 'Cabin';
-    src: url(../style/Fonts/Cabin_Condensed-Regular.ttf);
-    font-weight: normal;
-    font-style: normal;
+  font-family: "Cabin";
+  src: url(../style/Fonts/Cabin_Condensed-Regular.ttf);
+  font-weight: normal;
+  font-style: normal;
 }
-header{ 
-    position: relative;
-    z-index: 900;
-    background: #013B31;
-    color: #fff;
-    font-family: 'Cabin';
-    width: 100%;
-    height: 80px;
+header {
+  position: fixed;
+  top: 0;
+  z-index: 900;
+  background: #013b31;
+  color: #fff;
+  font-family: "Cabin";
+  width: 100%;
+  height: 80px;
+}
+#btnOption {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  right: 20px;
+  width: 45px;
+  height: 45px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: #cccccc44;
+  border-radius: 8px;
+}
+#options {
+  position: fixed;
+  top: 0;
+  font-family: "Cabin";
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: 50px 50px 50px auto;
+  row-gap: 30px;
+  justify-items: center;
+  transition: 0.5s;
+  right: -300px;
+  top: 80px;
+  z-index: 1000;
+  background: #012922;
+  height: 100vh;
+  color: #fff;
+  width: 300px;
+}
+#options.show {
+  right: 0;
+}
+h5 {
+  font-size: 16px;
+}
+.title {
+  position: relative;
+  margin-top: 150px;
+  margin-bottom: 50px;
+  width: 100%;
+  height: 50px;
+}
+.title > * {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+}
+.title h2 {
+  position: absolute;
+  text-align: center;
+  white-space: nowrap;
+  display: inline-block;
+  z-index: 20;
+  color: #005b4c;
+  padding: 0 15px;
+  background: #fff;
+  font-size: clamp(25px, 6vw, 40px);
+}
+.title #line {
+  position: absolute;
+  z-index: 10;
+  width: 95%;
+  height: 5px;
+  background: #005b4c;
+}
+#bird {
+  all: unset;
+  height: 50px;
+  position: absolute;
+  top: 50%;
+  left: 20px;
+  transform: translateY(-50%);
+}
+h1 {
+  position: absolute;
+  top: 50%;
+  left: 80px;
+  font-size: clamp(1px, 7vw, 30px);
+  letter-spacing: 3px;
+  transform: translateY(-50%);
+  text-decoration: underline;
+}
+#enciclo {
+  position: relative;
+  min-height: 100vh;
+  left: 50%;
+  transform: translate(-50%);
+  top: 10px;
+  width: 90%;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  grid-auto-rows: minmax(380px, auto);
+  row-gap: 35px;
+}
+.familia {
+  position: relative;
+  left: 50%;
+  transform: translate(-50%);
+  top: 10px;
+  width: 90%;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  grid-auto-rows: minmax(380px, auto);
+  row-gap: 35px;
+  margin-bottom: 60px;
+}
+.subtitle {
+  position: relative;
+  left: 50%;
+  transform: translate(-50%);
+  margin-top: 20px;
+  margin-bottom: 50px;
+  width: 70%;
+  height: 50px;
+}
+.subtitle > * {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+}
+.subtitle h2 {
+  position: absolute;
+  text-align: center;
+  white-space: nowrap;
+  display: inline-block;
+  z-index: 20;
+  color: #00816c;
+  padding: 0 15px;
+  background: #fff;
+  font-size: clamp(25px, 4vw, 30px);
+}
+.subtitle #line {
+  position: absolute;
+  z-index: 10;
+  width: 95%;
+  height: 3px;
+  background: #00816c;
+}
+article {
+  position: relative;
+  left: 50%;
+  transform: translate(-50%);
+  width: 280px;
+  height: 260px;
+  border: #ccc 2px solid;
+  background: #fff;
+  border-radius: 15px;
+  top: 116px;
+  color: #005b4c;
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-template-rows: auto 1fr 40px;
+}
+.birdIMG {
+  position: absolute;
+  transition: 0.4s;
+  left: 50%;
+  top: -120px;
+  transform: translate(-50%);
+  height: 150px;
+  width: 150px;
+  background: #fff;
+  border: #000 solid 10px;
+  border-radius: 50%;
+  /*arriba-izquierda, arriba-derecha, abajo derecha*/
+}
+.stick {
+  position: absolute;
+  transition: 0.4s;
+  top: -70px;
+  left: 50%;
+  transform: translate(-50%);
+  margin-left: -160px;
+  background: #000000;
+  height: 10px;
+  border: #000 10px solid;
+  border-radius: 10px;
+  width: 100px;
+  transform: rotate(15deg);
 }
 
-.title{
-    position: relative;
-    margin-top: 20px;
-    width: 100%;
-    height: 100px;
-}
-.title >*{
-    position: absolute;
-    left: 50%;
-    top: 50%;
-    transform: translate(-50%,-50%);
-}
-.title h2{
-    position: absolute;
-    text-align: center;
-    white-space: nowrap;
-    display: inline-block;
-    z-index: 20;
-    color: #005B4C;
-    padding: 0 15px;
-    background: #fff;
-    font-size: clamp( 25px, 6vw, 40px);
-}
-#line{
-    position: absolute;
-    z-index: 10;
-    width: 95%;
-    height: 5px;
-    background: #005B4C;
-}
-#bird{
-    all: unset;
-    height: 50px;
-    position: absolute;
-    top: 50%;
-    left: 20px;
-    transform: translateY(-50%);
-}
-h1{
-    position: absolute;
-    top: 50%;
-    left: 80px;
-    font-size: clamp(1px, 7vw, 30px);
-    letter-spacing: 3px;
-    transform: translateY(-50%);
-    text-decoration: underline;
-}
-#enciclo{
-    position: relative;
-    left: 50%;
-    transform: translate(-50%);
-    top: 10px;
-    width: 90%;
-    display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(300px,1fr));
-    grid-auto-rows: 380px;
-    row-gap: 35px;
-}
-article{
-    position: relative;
-    left: 50%;
-    transform: translate(-50%);
-    width: 280px;
-    height: 260px;
-    border: #ccc 2px solid;
-    background: #fff;
-    border-radius: 15px;
-    top: 116px;
-    color: #005B4C;
-    display: grid; 
-    grid-template-columns: 1fr;
-    grid-template-rows: auto 1fr 40px;
-}
-.birdIMG{
-    position: absolute;
-    transition: .4s;
-    left: 50%;
-    top: -120px; 
-    transform: translate(-50%); 
-    height: 150px;
-    width: 150px;
-    background: #fff ;
-    border: #000 solid 10px;
-    border-radius: 50%;
-    /*arriba-izquierda, arriba-derecha, abajo derecha*/
-}
-.stick{
-    position: absolute;
-    transition: .4s;
-    top:-70px;
-    left: 50%;
-    transform: translate(-50%);
-    margin-left: -160px;
-    background: #000000;
-    height: 10px;
-    border: #000 10px solid;
-    border-radius: 10px;
-    width: 100px;
-    transform: rotate(15deg);
+.birdNAME {
+  transition: 0.4s;
+  text-transform: capitalize;
+  font-family: "Payfin";
+  font-weight: bold;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  margin-top: 55px;
+  font-size: 25px;
+  margin-left: 10px;
+  margin-right: 10px;
 }
 
-
-
-.birdNAME{
-    transition: .4s;
-    text-transform: capitalize;
-    font-family: 'Payfin';
-    font-weight: bold;
-    white-space: nowrap;
-    overflow: hidden;
-    text-overflow: ellipsis;
-    margin-top: 55px;
-    font-size: 25px;
-    margin-left: 10px;
-    margin-right: 10px;
+.birdDES {
+  color: #000000b7;
+  overflow: hidden;
+  font-family: "Cabin";
+  border-top: 3px solid #005b4c;
+  margin-left: 10px;
+  margin-right: 10px;
+  top: 0;
+  bottom: 10px;
+  padding-top: 5px;
+}
+.birdBTN {
+  all: unset;
+  position: absolute;
+  transition: 0.3s;
+  font-family: "Cabin";
+  bottom: 10px;
+  font-size: 17px;
+  color: #fff;
+  margin-left: 10px;
+  padding: 5px 8px;
+  background: #005b4c;
+}
+.filtro {
+  display: none;
 }
 
-.birdDES{
-    color: #000000b7;
-    overflow: hidden;
-    font-family: 'Cabin';
-    border-top: 3px solid #005B4C;
-    margin-left: 10px;
-    margin-right: 10px;
-    top: 0;
-    bottom: 10px;
-    padding-top: 5px;
+#conteinerSearch {
+  position: relative;
+  grid-column-start: 1;
+  grid-column-end: 3;
+  margin-top: 15px;
+  display: flex;
+  align-items: center;
+  height: 35px;
+  width: 90%;
+  background: #9797976b;
+  border-radius: 10px;
+  padding: 5px;
+  color: #fff;
+}
+#btnSearch {
+  all: unset;
+  height: 25px;
+  padding: 3px;
+}
+#search {
+  all: unset;
+  width: 100%;
+  height: 90%;
+}
+#orderOptions {
+  margin-top: 5px;
+  width: 100px;
+  height: 35px;
+  display: grid;
+  justify-content: center;
+  align-items: center;
+  column-gap: 5px;
+  grid-template-columns: 1fr 1fr 1fr;
+  padding: 1px 5px;
+  border-radius: 4px;
+  background: #ffffff25;
+}
+#orderOptions svg {
+  transition: 0.3s;
+  padding: 2px;
+  border-radius: 5px;
+  margin: auto;
+}
+svg.active {
+  background: #ffffff65;
+}
+select {
+  border: none;
+  color: #fff;
+  margin-top: 5px;
+  width: 100px;
+  height: 35px;
+  display: grid;
+  justify-content: center;
+  align-items: center;
+  column-gap: 5px;
+  grid-template-columns: 1fr 1fr 1fr;
+  padding: 1px 5px;
+  border-radius: 4px;
+  background: #ffffff25;
+}
+option {
+  all: unset;
+  background: #013b31;
+}
+#accept {
+  height: 35px;
+  grid-column-start: 1;
+  grid-column-end: 3;
+}
+#acceptBTN {
+  all: unset;
+  transition: 0.2s;
+  background: #005b4c;
+  text-align: center;
+  border-radius: 5px;
+  width: 90px;
+  height: 35px;
+  font-size: 17px;
+}
 
-}
-.birdBTN{
-    all: unset;
-    position: absolute;
-    transition: .3s;
-    font-family: 'Cabin';
-    bottom: 10px;
-    font-size: 17px;
-    color: #fff;
-    margin-left: 10px;
-    padding: 5px 8px;
-    background: #005B4C;
-}
-.filtro{
-    display: none;
+footer {
+  position: relative;
+  margin-top: 45px;
+  z-index: 1100;
+  text-align: center;
+  padding-top: 50px;
+  color: #fff;
+  width: 100%;
+  height: 200px;
+  background: #021814;
 }
 
-#conteinerSearch{
-    position: absolute;
-    top: 50%;
-    transform: translateY(-50%);
-    display: flex;
-    align-items: center;
-    height: 35px;
-    right: 30px;
-    background: #9797975b;
-    border-radius: 50px;
-    padding: 5px;
-}
-#btnSearch{
-    all: unset;
-    transition: .6s;
-    height: 25px;
-    border: 5px solid rgba(255, 0, 0, 0);
-    border-radius: 50%;
-}
-#search{
-    all: unset;
-    transition: .6s;
-    width: 0;
-    height: 90%;
-}
-#imgSearch{
-    height: 100%;
-
-}
-
-footer{
-    margin-top: 45px;
-    text-align: center;
-    padding-top: 50px;
-    color: #fff;
-    width: 100%;
-    height: 200px;
-    background: #021814;
-}
-
-.reference{
-    display: none;
-    position: absolute;
-    color: #000000;
-    top: 10px;
-    left: 10px;
-    font-family: 'Cabin';
+.reference {
+  display: none;
+  position: absolute;
+  color: #000000;
+  top: 10px;
+  left: 10px;
+  font-family: "Cabin";
 }
 
 @media only screen and (max-width: 600px) {
-
-    .birdIMG{
-        top: -150px; 
-        width: 170px;
-        height: 170px;
-    }
-    .stick{
-        width: 10px;
-        left: 80%;
-    }
-    #enciclo{
-        row-gap: 45px;
-    }
-    #search{
-        all: unset;
-        transition: .5s;
-        position: absolute;
-        top: 70px;
-        margin-left: 80px;
-        z-index: -1;
-        padding: 3px 5px;
-        border-radius: 5px;
-        border: 10px solid #013B31;
-        border-right: 25px solid #013B31;;
-        background: #4d6b66;
-
-    }
-    .show #search{
-        margin-left: -140px;
-    }
-
+  .birdIMG {
+    top: -150px;
+    width: 170px;
+    height: 170px;
   }
-  @media only screen and (min-width: 601px) {
-    article:hover .birdIMG{
-        top: -150px; 
-        width: 170px;
-        height: 170px;
-    }
-    article:hover .stick{
-        width: 10px;
-        left: 80%;
-    }
-    .show #btnSearch{
-        background: #60A561 ;
-    }
-    .show #search{
-        width: 200px;
-        margin-left: 10px;
-    }
-    .birdBTN:hover{
-
-        background: #05362e;
-    }
+  .stick {
+    width: 10px;
+    left: 80%;
   }
+  #enciclo {
+    row-gap: 45px;
+  }
+}
+@media only screen and (min-width: 601px) {
+  article:hover .birdIMG {
+    top: -150px;
+    width: 170px;
+    height: 170px;
+  }
+  article:hover .stick {
+    width: 10px;
+    left: 80%;
+  }
+
+  .birdBTN:hover {
+    background: #05362e;
+  }
+  #acceptBTN:hover {
+    background: #055245;
+  }
+}
