@@ -1,0 +1,127 @@
+@font-face {
+  font-family: "Payfin";
+  src: url(../style/Fonts/PlayfairDisplay-Bold.ttf);
+  font-weight: bold;
+  font-style: bold;
+}
+@font-face {
+  font-family: "Cabin";
+
+  src: url(../style/Fonts/Cabin_Condensed-Regular.ttf);
+  font-weight: normal;
+  font-style: normal;
+}
+* {
+  font-family: "Cabin";
+}
+#DetailsBirds {
+  position: relative;
+  margin: auto;
+  margin-top: 120px;
+  background: #005b4c;
+  width: 90%;
+  min-height: 77vh;
+  display: grid;
+  grid-template-columns: 2fr 3fr;
+}
+
+#galleryIMG {
+  position: relative;
+}
+#viewIMG {
+  position: relative;
+  margin-top: 20px;
+  margin-bottom: 10px;
+  left: 50%;
+  transform: translate(-50%);
+  max-width: 80%;
+  max-height: 60%;
+}
+#carousel {
+  position: absolute;
+  left: 50%;
+  top: 68%;
+  transform: translate(-50%);
+  background: #00816c;
+  height: 10%;
+  width: 80%;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  align-items: center;
+  justify-items: center;
+}
+.previewIMG {
+  background: red;
+  width: 80%;
+  height: 95%;
+}
+#informacion {
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-template-rows: auto 1fr;
+}
+#titles {
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+#name {
+  font-family: "Payfin";
+  text-transform: capitalize;
+  position: relative;
+  display: inline-block;
+  color: #fff;
+  font-size: 40px;
+}
+
+#nameCC {
+  font-family: "Payfin";
+  text-transform: capitalize;
+  position: relative;
+  display: inline-block;
+  color: #ffffffbd;
+  font-size: 30px;
+}
+#descripcion {
+  background: #fff;
+
+  position: relative;
+  margin-bottom: 20px;
+  left: 0px;
+  margin-right: 20px;
+  padding: 30px 20px 0 20px;
+  display: grid;
+  grid-template-rows: auto auto 1fr;
+}
+b {
+  color: #494949;
+  font-size: 20px;
+}
+p {
+  font-size: 25px;
+}
+
+#moreDetails {
+  position: relative;
+  padding: 20px;
+  color: #fff;
+  background: #00b698;
+  border-radius: 10px;
+
+  margin-top: auto;
+  margin-bottom: 20px;
+  margin-left: auto;
+  display: grid;
+  column-gap: 40px;
+  row-gap: 5px;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-rows: auto 1fr;
+}
+h5 {
+  letter-spacing: 1.5px;
+  font-size: 17px;
+  text-decoration: underline;
+}
+span {
+  letter-spacing: 1.5px;
+  font-size: 20px;
+}

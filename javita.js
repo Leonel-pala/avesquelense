@@ -21,12 +21,12 @@ window.addEventListener("load", (e) => {
           lista.sort((a, b) => b.nombre.localeCompare(a.nombre));
         }
 
-        let largo = Object.keys(data).length;
+        let largo = 99; //Object.keys(data).length;
 
         if (y == "b") {
           aves.innerHTML = "";
           let family = [];
-          for (let x = 0; x < largo; x++) {
+          for (let x = 0; x <= largo; x++) {
             if (family.includes(lista[x].familia) == false) {
               family.push(lista[x].familia);
 
@@ -41,13 +41,13 @@ window.addEventListener("load", (e) => {
           for (let i = 0; i <= largo; i++) {
             document.querySelector(
               `#${lista[i].familia}`
-            ).innerHTML += `<article id="${lista[i].nombre}">
+            ).innerHTML += `<article id="${lista[i].name}">
                   <span class="reference">${i}.</span>
                   <span class="stick"></span>
-                      <img class="birdIMG" src="${lista[i].url}">
-                          <h5 class="birdNAME">${lista[i].nombre}</h5>
+                      <img class="birdIMG" src="${lista[i].preview}">
+                          <h5 class="birdNAME">${lista[i].name}</h5>
                       <p class="birdDES">${lista[i].descripcion}</p>
-                  <input class="birdBTN"type="button" value="Mas detalles" class="btn">
+                  <a class="birdBTN" type="button" value="Mas detalles" class="btn"></a>
               </article>`;
           }
         } else {
@@ -55,13 +55,13 @@ window.addEventListener("load", (e) => {
             '<div id="enciclo"></div>';
           let enciclo = document.querySelector("#enciclo");
           for (let i = 0; i <= largo; i++) {
-            enciclo.innerHTML += `<article id="${lista[i].nombre}">
+            enciclo.innerHTML += `<article id="${lista[i].name}">
                   <span class="reference">${i}.</span>
                   <span class="stick"></span>
-                      <img class="birdIMG" src="${lista[i].url}">
-                          <h5 class="birdNAME">${lista[i].nombre}</h5>
+                      <img class="birdIMG" src="${lista[i].preview}">
+                          <h5 class="birdNAME">${lista[i].name}</h5>
                       <p class="birdDES">${lista[i].descripcion}</p>
-                  <input class="birdBTN"type="button" value="Mas detalles" class="btn">
+                  <a class="birdBTN" value="Mas detalles" class="btn" href="./details.html?id=${i}">Mas detalles</a>
               </article>`;
           }
         }
@@ -77,16 +77,22 @@ window.addEventListener("load", (e) => {
     });
   });
   let options = document.querySelector("#options");
-
+  let zapato = document.querySelector("#zapato");
   let btnOption = document.querySelector("#btnOption");
   btnOption.addEventListener("click", (e) => {
     if (options.classList.value == "") {
       options.classList.add("show");
+      zapato.classList.add("show");
     } else if (options.classList.value == "show") {
       options.classList.remove("show");
+      zapato.classList.remove("show");
     }
   });
 
+  zapato.addEventListener("click", (e) => {
+    options.classList.remove("show");
+    zapato.classList.remove("show");
+  });
   const opt = document.querySelectorAll(".sort");
   opt.forEach((element) => {
     element.addEventListener("click", (e) => {

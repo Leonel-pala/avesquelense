@@ -1,4 +1,5 @@
 * {
+  cursor: default;
   padding: 0;
   margin: 0;
 }
@@ -14,6 +15,9 @@
   font-weight: normal;
   font-style: normal;
 }
+body {
+  background: #fcfcfc;
+}
 header {
   position: fixed;
   top: 0;
@@ -26,6 +30,7 @@ header {
 }
 #btnOption {
   position: absolute;
+  color: #fff;
   top: 50%;
   transform: translateY(-50%);
   right: 20px;
@@ -58,6 +63,17 @@ header {
 #options.show {
   right: 0;
 }
+#zapato {
+  position: fixed;
+  right: 0;
+  z-index: 400;
+  height: 100vh;
+  top: 0;
+}
+#zapato.show {
+  background: #00000000;
+  width: 100%;
+}
 h5 {
   font-size: 16px;
 }
@@ -82,7 +98,7 @@ h5 {
   z-index: 20;
   color: #005b4c;
   padding: 0 15px;
-  background: #fff;
+  background: #fcfcfc;
   font-size: clamp(25px, 6vw, 40px);
 }
 .title #line {
@@ -172,7 +188,7 @@ article {
   transform: translate(-50%);
   width: 280px;
   height: 260px;
-  border: #ccc 2px solid;
+  border: #005b4c 2px solid;
   background: #fff;
   border-radius: 15px;
   top: 116px;
@@ -252,6 +268,7 @@ article {
 
 #conteinerSearch {
   position: relative;
+  cursor: text;
   grid-column-start: 1;
   grid-column-end: 3;
   margin-top: 15px;

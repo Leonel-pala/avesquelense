@@ -1,962 +1,1282 @@
-{
-  "1": {
-    "nombre": "loica",
+[
+  {
+    "name": "loica",
+    "nameCC": "Leistes loyca",
     "descripcion": "La loica es un ave colorida y activa, conocida por su plumaje rojo y negro. Se encuentra comúnmente en zonas de pastizales y campos abiertos.",
-    "url": "./style/img/birds/loica.webp",
+    "informacion": "informacioninformosa",
+    "preview": "./style/img/birds/loica.webp",
     "familia": "Icteridae"
   },
-  "2": {
-    "nombre": "bandurria",
+  {
+    "name": "bandurria",
+    "nameCC": "Theristicus melanopis",
     "descripcion": "La bandurria es un ave grande con un plumaje mayoritariamente negro y blanco. Suele habitar en áreas cercanas a cuerpos de agua y se alimenta de insectos y pequeños vertebrados.",
-    "url": "./style/img/birds/bandurria.webp",
+    "informacion": "informacioninformosa",
+    "preview": "./style/img/birds/bandurria.webp",
     "familia": "Threskiornithidae"
   },
-  "3": {
-    "nombre": "chimango",
+  {
+    "name": "chimango",
+    "nameCC": "Milvago chimango",
     "descripcion": "El chimango es un ave rapaz que se encuentra comúnmente en América del Sur. Tiene un plumaje oscuro y se alimenta de carroña, así como de pequeños animales.",
-    "url": "./style/img/birds/chimango.webp",
+    "informacion": "informacioninformosa",
+    "preview": "./style/img/birds/chimango.webp",
     "familia": "Falconidae"
   },
-  "4": {
-    "nombre": "diucón",
+  {
+    "name": "diucón",
+    "nameCC": "Xolmis pyrope",
     "descripcion": "El diucon es un ave de tamaño mediano con un plumaje principalmente gris. Es conocido por su canto melodioso y se encuentra en diversas regiones de Sudamérica.",
-    "url": "./style/img/birds/diucon.webp",
+    "informacion": "informacioninformosa",
+    "preview": "./style/img/birds/diucon.webp",
     "familia": "Tyrannidae"
   },
-  "5": {
-    "nombre": "tero",
+  {
+    "name": "tero",
+    "nameCC": "Vanellus chilensis",
     "descripcion": "El tero, también conocido como chorlito, es un ave migratoria que se encuentra en América. Tiene un plumaje terroso y es conocido por su llamado característico.",
-    "url": "./style/img/birds/tero.webp",
+    "informacion": "informacioninformosa",
+    "preview": "./style/img/birds/tero.webp",
     "familia": "Recurvirostridae"
   },
-  "6": {
-    "nombre": "zorzal",
+  {
+    "name": "zorzal",
+    "nameCC": "Turdus falcklandii",
     "descripcion": "El zorsal es un ave canora con un plumaje variado y colorido. Es conocido por su canto melodioso y se encuentra en diversas regiones de América.",
-    "url": "./style/img/birds/zorsal.webp",
+    "informacion": "informacioninformosa",
+    "preview": "./style/img/birds/zorsal.webp",
     "familia": "Turdidae"
   },
-  "7": {
-    "nombre": "choique",
+  {
+    "name": "choique",
+    "nameCC": "Rhea pennata",
     "descripcion": "LOL soy un ave",
-    "url": "./style/img/birds/choique.webp",
+    "informacion": "informacioninformosa",
+    "preview": "./style/img/birds/choique.webp",
     "familia": "Rheidae"
   },
-  "8": {
-    "nombre": "marineta comun",
+  {
+    "name": "marineta comun",
+    "nameCC": "Eudromia elegans",
     "descripcion": "LOL soy un ave",
-    "url": "./style/img/birds/marineta comun.webp",
+    "informacion": "informacioninformosa",
+    "preview": "./style/img/birds/marineta comun.webp",
     "familia": "Tinamidae"
   },
-  "9": {
-    "nombre": "quiula patagonica",
+  {
+    "name": "quiula patagonica",
+    "nameCC": "Tinamotis ingoufi",
     "descripcion": "LOL soy un ave",
-    "url": "./style/img/birds/quiula patagonica.webp",
+    "informacion": "informacioninformosa",
+    "preview": "./style/img/birds/quiula patagonica.webp",
     "familia": "Tinamidae"
   },
-  "10": {
-    "nombre": "maca comun",
+  {
+    "name": "maca comun",
+    "nameCC": "Rollandia rolland chilensis",
     "descripcion": "LOL soy un ave",
-    "url": "./style/img/birds/maca comun.webp",
+    "informacion": "informacioninformosa",
+    "preview": "./style/img/birds/maca comun.webp",
     "familia": "Podicipedidae"
   },
-  "11": {
-    "nombre": "maca plateado",
+  {
+    "name": "maca plateado",
+    "nameCC": "Podiceps occipitalis",
     "descripcion": "LOL soy un ave",
-    "url": "./style/img/birds/maca plateado.webp",
+    "informacion": "informacioninformosa",
+    "preview": "./style/img/birds/maca plateado.webp",
     "familia": "Podicipedidae"
   },
-  "12": {
-    "nombre": "maca pico grueso",
+  {
+    "name": "maca pico grueso",
+    "nameCC": "Podilymbus podiceps",
     "descripcion": "LOL soy un ave",
-    "url": "./style/img/birds/maca pico grueso.webp",
+    "informacion": "informacioninformosa",
+    "preview": "./style/img/birds/maca pico grueso.webp",
     "familia": "Podicipedidae"
   },
-  "13": {
-    "nombre": "maca grande",
+  {
+    "name": "maca grande",
+    "nameCC": "Podiceps major",
     "descripcion": "LOL soy un ave",
-    "url": "./style/img/birds/maca grande.webp",
+    "informacion": "informacioninformosa",
+    "preview": "./style/img/birds/maca grande.webp",
     "familia": "Podicipedidae"
   },
-  "14": {
-    "nombre": "bigua",
+  {
+    "name": "bigua",
+    "nameCC": "Nannopterum brasilianum",
     "descripcion": "LOL soy un ave",
-    "url": "./style/img/birds/bigua.webp",
+    "informacion": "informacioninformosa",
+    "preview": "./style/img/birds/bigua.webp",
     "familia": "Phalacrocoracidae"
   },
-  "15": {
-    "nombre": "garza mora",
+  {
+    "name": "garza mora",
+    "nameCC": "Ardea cocoi",
     "descripcion": "LOL soy un ave",
-    "url": "./style/img/birds/garza mora.webp",
+    "informacion": "informacioninformosa",
+    "preview": "./style/img/birds/garza mora.webp",
     "familia": "Ardeidae"
   },
-  "16": {
-    "nombre": "garza blanca",
+  {
+    "name": "garza blanca",
+    "nameCC": "Ardea alba",
     "descripcion": "LOL soy un ave",
-    "url": "./style/img/birds/garza blanca.webp",
+    "informacion": "informacioninformosa",
+    "preview": "./style/img/birds/garza blanca.webp",
     "familia": "Ardeidae"
   },
-  "17": {
-    "nombre": "garcita blanca",
+  {
+    "name": "garcita blanca",
+    "nameCC": "Egretta thula",
     "descripcion": "LOL soy un ave",
-    "url": "./style/img/birds/garcita blanca.webp",
+    "informacion": "informacioninformosa",
+    "preview": "./style/img/birds/garcita blanca.webp",
     "familia": "Ardeidae"
   },
-  "18": {
-    "nombre": "garcita bueyera",
+  {
+    "name": "garcita bueyera",
+    "nameCC": "cientifico",
     "descripcion": "LOL soy un ave",
-    "url": "./style/img/birds/garcita bueyera.webp",
+    "informacion": "informacioninformosa",
+    "preview": "./style/img/birds/garcita bueyera.webp",
     "familia": "Ardeidae"
   },
-  "19": {
-    "nombre": "garza bruja",
+  {
+    "name": "garza bruja",
+    "nameCC": "cientifico",
     "descripcion": "LOL soy un ave",
-    "url": "./style/img/birds/garza bruja.webp",
+    "informacion": "informacioninformosa",
+    "preview": "./style/img/birds/garza bruja.webp",
     "familia": "Ardeidae"
   },
-  "20": {
-    "nombre": "pato overo",
+  {
+    "name": "pato overo",
+    "nameCC": "Mareca sibilatrix",
     "descripcion": "LOL soy un ave",
-    "url": "./style/img/birds/pato overo.webp",
+    "informacion": "informacioninformosa",
+    "preview": "./style/img/birds/pato overo.webp",
     "familia": "Anatidae"
   },
-  "21": {
-    "nombre": "cuervillo de cañada",
+  {
+    "name": "cuervillo de cañada",
+    "nameCC": "cientifico",
     "descripcion": "LOL soy un ave",
-    "url": "./style/img/birds/cuervillo de cañada.webp",
+    "informacion": "informacioninformosa",
+    "preview": "./style/img/birds/cuervillo de cañada.webp",
     "familia": "Threskiornithidae"
   },
-  "22": {
-    "nombre": "flamenco austral",
+  {
+    "name": "flamenco austral",
+    "nameCC": "cientifico",
     "descripcion": "LOL soy un ave",
-    "url": "./style/img/birds/flamenco austral.webp",
+    "informacion": "informacioninformosa",
+    "preview": "./style/img/birds/flamenco austral.webp",
     "familia": "Phoenicopteridae"
   },
-  "23": {
-    "nombre": "coscoroba",
+  {
+    "name": "coscoroba",
+    "nameCC": "cientifico",
     "descripcion": "LOL soy un ave",
-    "url": "./style/img/birds/coscoroba.webp",
+    "informacion": "informacioninformosa",
+    "preview": "./style/img/birds/coscoroba.webp",
     "familia": "Anatidae"
   },
-  "24": {
-    "nombre": "cisne cuello negro",
+  {
+    "name": "cisne cuello negro",
+    "nameCC": "cientifico",
     "descripcion": "LOL soy un ave",
-    "url": "./style/img/birds/cisne cuello negro.webp",
+    "informacion": "informacioninformosa",
+    "preview": "./style/img/birds/cisne cuello negro.webp",
     "familia": "Anatidae"
   },
-  "25": {
-    "nombre": "pato crestón",
+  {
+    "name": "pato crestón",
+    "nameCC": "cientifico",
     "descripcion": "LOL soy un ave",
-    "url": "./style/img/birds/pato crestón.webp",
+    "informacion": "informacioninformosa",
+    "preview": "./style/img/birds/pato crestón.webp",
     "familia": "Anatidae"
   },
-  "26": {
-    "nombre": "cauquen comun",
+  {
+    "name": "cauquen comun",
+    "nameCC": "cientifico",
     "descripcion": "LOL soy un ave",
-    "url": "./style/img/birds/cauquen comun.webp",
+    "informacion": "informacioninformosa",
+    "preview": "./style/img/birds/cauquen comun.webp",
     "familia": "Anatidae"
   },
-  "27": {
-    "nombre": "cauquen real",
+  {
+    "name": "cauquen real",
+    "nameCC": "cientifico",
     "descripcion": "LOL soy un ave",
-    "url": "./style/img/birds/cauquen real.webp",
+    "informacion": "informacioninformosa",
+    "preview": "./style/img/birds/cauquen real.webp",
     "familia": "Anatidae"
   },
-  "28": {
-    "nombre": "pato maicero",
+  {
+    "name": "pato maicero",
+    "nameCC": "cientifico",
     "descripcion": "LOL soy un ave",
-    "url": "./style/img/birds/pato maicero.webp",
+    "informacion": "informacioninformosa",
+    "preview": "./style/img/birds/pato maicero.webp",
     "familia": "Anatidae"
   },
-  "29": {
-    "nombre": "pato barcino",
+  {
+    "name": "pato barcino",
+    "nameCC": "cientifico",
     "descripcion": "LOL soy un ave",
-    "url": "./style/img/birds/pato barcino.webp",
+    "informacion": "informacioninformosa",
+    "preview": "./style/img/birds/pato barcino.webp",
     "familia": "Anatidae"
   },
-  "30": {
-    "nombre": "pato cuchara",
+  {
+    "name": "pato cuchara",
+    "nameCC": "cientifico",
     "descripcion": "LOL soy un ave",
-    "url": "./style/img/birds/pato cuchara.webp",
+    "informacion": "informacioninformosa",
+    "preview": "./style/img/birds/pato cuchara.webp",
     "familia": "Anatidae"
   },
-  "31": {
-    "nombre": "pato colorado",
+  {
+    "name": "pato colorado",
+    "nameCC": "cientifico",
     "descripcion": "LOL soy un ave",
-    "url": "./style/img/birds/pato colorado.webp",
+    "informacion": "informacioninformosa",
+    "preview": "./style/img/birds/pato colorado.webp",
     "familia": "Anatidae"
   },
-  "32": {
-    "nombre": "pato gargantilla",
+  {
+    "name": "pato gargantilla",
+    "nameCC": "cientifico",
     "descripcion": "LOL soy un ave",
-    "url": "./style/img/birds/pato gargantilla.webp",
+    "informacion": "informacioninformosa",
+    "preview": "./style/img/birds/pato gargantilla.webp",
     "familia": "Anatidae"
   },
-  "33": {
-    "nombre": "pato capuchino",
+  {
+    "name": "pato capuchino",
+    "nameCC": "cientifico",
     "descripcion": "LOL soy un ave",
-    "url": "./style/img/birds/pato capuchino.webp",
+    "informacion": "informacioninformosa",
+    "preview": "./style/img/birds/pato capuchino.webp",
     "familia": "Anatidae"
   },
-  "34": {
-    "nombre": "quetro volador",
+  {
+    "name": "quetro volador",
+    "nameCC": "cientifico",
     "descripcion": "LOL soy un ave",
-    "url": "./style/img/birds/quetro volador.webp",
+    "informacion": "informacioninformosa",
+    "preview": "./style/img/birds/quetro volador.webp",
     "familia": "Anatidae"
   },
-  "35": {
-    "nombre": "pato picazo",
+  {
+    "name": "pato picazo",
+    "nameCC": "cientifico",
     "descripcion": "LOL soy un ave",
-    "url": "./style/img/birds/pato picazo.webp",
+    "informacion": "informacioninformosa",
+    "preview": "./style/img/birds/pato picazo.webp",
     "familia": "Anatidae"
   },
-  "36": {
-    "nombre": "pato zambullidor chico",
+  {
+    "name": "pato zambullidor chico",
+    "nameCC": "cientifico",
     "descripcion": "LOL soy un ave",
-    "url": "./style/img/birds/pato zambullidor chico.webp",
+    "informacion": "informacioninformosa",
+    "preview": "./style/img/birds/pato zambullidor chico.webp",
     "familia": "Anatidae"
   },
-  "37": {
-    "nombre": "condor andino",
+  {
+    "name": "condor andino",
+    "nameCC": "cientifico",
     "descripcion": "LOL soy un ave",
-    "url": "./style/img/birds/condor andino.webp",
+    "informacion": "informacioninformosa",
+    "preview": "./style/img/birds/condor andino.webp",
     "familia": "Cathartidae"
   },
-  "38": {
-    "nombre": "jote cabeza colorada",
+  {
+    "name": "jote cabeza colorada",
+    "nameCC": "cientifico",
     "descripcion": "LOL soy un ave",
-    "url": "./style/img/birds/jote cabeza colorada.webp",
+    "informacion": "informacioninformosa",
+    "preview": "./style/img/birds/jote cabeza colorada.webp",
     "familia": "Cathartidae"
   },
-  "39": {
-    "nombre": "jote cabeza negra",
+  {
+    "name": "jote cabeza negra",
+    "nameCC": "cientifico",
     "descripcion": "LOL soy un ave",
-    "url": "./style/img/birds/jote cabeza negra.webp",
+    "informacion": "informacioninformosa",
+    "preview": "./style/img/birds/jote cabeza negra.webp",
     "familia": "Cathartidae"
   },
-  "40": {
-    "nombre": "aguila mora",
+  {
+    "name": "aguila mora",
+    "nameCC": "cientifico",
     "descripcion": "LOL soy un ave",
-    "url": "./style/img/birds/aguila mora.webp",
+    "informacion": "informacioninformosa",
+    "preview": "./style/img/birds/aguila mora.webp",
     "familia": "Accipitridae"
   },
-  "41": {
-    "nombre": "gavilan mixto",
+  {
+    "name": "gavilan mixto",
+    "nameCC": "cientifico",
     "descripcion": "LOL soy un ave",
-    "url": "./style/img/birds/gavilan mixto.webp",
+    "informacion": "informacioninformosa",
+    "preview": "./style/img/birds/gavilan mixto.webp",
     "familia": "Accipitridae"
   },
-  "42": {
-    "nombre": "gavilan ceniciento",
+  {
+    "name": "gavilan ceniciento",
+    "nameCC": "cientifico",
     "descripcion": "LOL soy un ave",
-    "url": "./style/img/birds/gavilan ceniciento.webp",
+    "informacion": "informacioninformosa",
+    "preview": "./style/img/birds/gavilan ceniciento.webp",
     "familia": "Accipitridae"
   },
-  "43": {
-    "nombre": "aguilucho comun",
+  {
+    "name": "aguilucho comun",
+    "nameCC": "cientifico",
     "descripcion": "LOL soy un ave",
-    "url": "./style/img/birds/aguilucho comun.webp",
+    "informacion": "informacioninformosa",
+    "preview": "./style/img/birds/aguilucho comun.webp",
     "familia": "Accipitridae"
   },
-  "44": {
-    "nombre": "agilucho alas largas",
+  {
+    "name": "agilucho alas largas",
+    "nameCC": "cientifico",
     "descripcion": "LOL soy un ave",
-    "url": "./style/img/birds/agilucho alas largas.webp",
+    "informacion": "informacioninformosa",
+    "preview": "./style/img/birds/agilucho alas largas.webp",
     "familia": "Accipitridae"
   },
-  "45": {
-    "nombre": "halcon peregrino",
+  {
+    "name": "halcon peregrino",
+    "nameCC": "cientifico",
     "descripcion": "LOL soy un ave",
-    "url": "./style/img/birds/halcon peregrino.webp",
+    "informacion": "informacioninformosa",
+    "preview": "./style/img/birds/halcon peregrino.webp",
     "familia": "Falconidae"
   },
-  "46": {
-    "nombre": "halcon plomizo",
+  {
+    "name": "halcon plomizo",
+    "nameCC": "cientifico",
     "descripcion": "LOL soy un ave",
-    "url": "./style/img/birds/halcon plomizo.webp",
+    "informacion": "informacioninformosa",
+    "preview": "./style/img/birds/halcon plomizo.webp",
     "familia": "Falconidae"
   },
-  "47": {
-    "nombre": "halconcicto colorado",
+  {
+    "name": "halconcicto colorado",
+    "nameCC": "cientifico",
     "descripcion": "LOL soy un ave",
-    "url": "./style/img/birds/halconcicto colorado.webp",
+    "informacion": "informacioninformosa",
+    "preview": "./style/img/birds/halconcicto colorado.webp",
     "familia": "Falconidae"
   },
-  "48": {
-    "nombre": "carancho",
+  {
+    "name": "carancho",
+    "nameCC": "cientifico",
     "descripcion": "LOL soy un ave",
-    "url": "./style/img/birds/carancho.webp",
+    "informacion": "informacioninformosa",
+    "preview": "./style/img/birds/carancho.webp",
     "familia": "Falconidae"
   },
-  "49": {
-    "nombre": "codorniz de california",
+  {
+    "name": "codorniz de california",
+    "nameCC": "cientifico",
     "descripcion": "LOL soy un ave",
-    "url": "./style/img/birds/codorniz de california.webp",
+    "informacion": "informacioninformosa",
+    "preview": "./style/img/birds/codorniz de california.webp",
     "familia": "Phasianidae"
   },
-  "50": {
-    "nombre": "aguatero",
+  {
+    "name": "aguatero",
+    "nameCC": "cientifico",
     "descripcion": "LOL soy un ave",
-    "url": "./style/img/birds/aguatero.webp",
+    "informacion": "informacioninformosa",
+    "preview": "./style/img/birds/aguatero.webp",
     "familia": "Rostratulidae"
   },
-  "51": {
-    "nombre": "gallineta comun",
+  {
+    "name": "gallineta comun",
+    "nameCC": "cientifico",
     "descripcion": "LOL soy un ave",
-    "url": "./style/img/birds/gallineta comun.webp",
+    "informacion": "informacioninformosa",
+    "preview": "./style/img/birds/gallineta comun.webp",
     "familia": "Rallidae"
   },
-  "52": {
-    "nombre": "gallineta chica",
+  {
+    "name": "gallineta chica",
+    "nameCC": "cientifico",
     "descripcion": "LOL soy un ave",
-    "url": "./style/img/birds/gallineta chica.webp",
+    "informacion": "informacioninformosa",
+    "preview": "./style/img/birds/gallineta chica.webp",
     "familia": "Rallidae"
   },
-  "53": {
-    "nombre": "gallareta ligas rojas",
+  {
+    "name": "gallareta ligas rojas",
+    "nameCC": "cientifico",
     "descripcion": "LOL soy un ave",
-    "url": "./style/img/birds/gallareta ligas rojas.webp",
+    "informacion": "informacioninformosa",
+    "preview": "./style/img/birds/gallareta ligas rojas.webp",
     "familia": "Rallidae"
   },
-  "54": {
-    "nombre": "gallareta chica",
+  {
+    "name": "gallareta chica",
+    "nameCC": "cientifico",
     "descripcion": "LOL soy un ave",
-    "url": "./style/img/birds/gallareta chica.webp",
+    "informacion": "informacioninformosa",
+    "preview": "./style/img/birds/gallareta chica.webp",
     "familia": "Rallidae"
   },
-  "55": {
-    "nombre": "gallareta escudete rojo",
+  {
+    "name": "gallareta escudete rojo",
+    "nameCC": "cientifico",
     "descripcion": "LOL soy un ave",
-    "url": "./style/img/birds/gallareta escudete rojo.webp",
+    "informacion": "informacioninformosa",
+    "preview": "./style/img/birds/gallareta escudete rojo.webp",
     "familia": "Rallidae"
   },
-  "56": {
-    "nombre": "pollona pintada",
+  {
+    "name": "pollona pintada",
+    "nameCC": "cientifico",
     "descripcion": "LOL soy un ave",
-    "url": "./style/img/birds/pollona pintada.webp",
+    "informacion": "informacioninformosa",
+    "preview": "./style/img/birds/pollona pintada.webp",
     "familia": "Rallidae"
   },
-  "57": {
-    "nombre": "ostrero austral",
+  {
+    "name": "ostrero austral",
+    "nameCC": "cientifico",
     "descripcion": "LOL soy un ave",
-    "url": "./style/img/birds/ostrero austral.webp",
+    "informacion": "informacioninformosa",
+    "preview": "./style/img/birds/ostrero austral.webp",
     "familia": "Haematopodidae"
   },
-  "58": {
-    "nombre": "tero real",
+  {
+    "name": "tero real",
+    "nameCC": "cientifico",
     "descripcion": "LOL soy un ave",
-    "url": "./style/img/birds/tero real.webp",
+    "informacion": "informacioninformosa",
+    "preview": "./style/img/birds/tero real.webp",
     "familia": "Recurvirostridae"
   },
-  "59": {
-    "nombre": "chorlo pampa",
+  {
+    "name": "chorlo pampa",
+    "nameCC": "cientifico",
     "descripcion": "LOL soy un ave",
-    "url": "./style/img/birds/chorlo pampa.webp",
+    "informacion": "informacioninformosa",
+    "preview": "./style/img/birds/chorlo pampa.webp",
     "familia": "Recurvirostridae"
   },
-  "60": {
-    "nombre": "chorlo cabezon",
+  {
+    "name": "chorlo cabezon",
+    "nameCC": "cientifico",
     "descripcion": "LOL soy un ave",
-    "url": "./style/img/birds/chorlo cabezon.webp",
+    "informacion": "informacioninformosa",
+    "preview": "./style/img/birds/chorlo cabezon.webp",
     "familia": "Recurvirostridae"
   },
-  "61": {
-    "nombre": "chorlito doble collar",
+  {
+    "name": "chorlito doble collar",
+    "nameCC": "cientifico",
     "descripcion": "LOL soy un ave",
-    "url": "./style/img/birds/chorlito doble collar.webp",
+    "informacion": "informacioninformosa",
+    "preview": "./style/img/birds/chorlito doble collar.webp",
     "familia": "Recurvirostridae"
   },
-  "62": {
-    "nombre": "chorlito de collar",
+  {
+    "name": "chorlito de collar",
+    "nameCC": "cientifico",
     "descripcion": "LOL soy un ave",
-    "url": "./style/img/birds/chorlito de collar.webp",
+    "informacion": "informacioninformosa",
+    "preview": "./style/img/birds/chorlito de collar.webp",
     "familia": "Recurvirostridae"
   },
-  "63": {
-    "nombre": "chorlito pecho canela",
+  {
+    "name": "chorlito pecho canela",
+    "nameCC": "cientifico",
     "descripcion": "LOL soy un ave",
-    "url": "./style/img/birds/chorlito pecho canela.webp",
+    "informacion": "informacioninformosa",
+    "preview": "./style/img/birds/chorlito pecho canela.webp",
     "familia": "Recurvirostridae"
   },
-  "64": {
-    "nombre": "pitotoy grande",
+  {
+    "name": "pitotoy grande",
+    "nameCC": "cientifico",
     "descripcion": "LOL soy un ave",
-    "url": "./style/img/birds/pitotoy grande.webp",
+    "informacion": "informacioninformosa",
+    "preview": "./style/img/birds/pitotoy grande.webp",
     "familia": "Scolopacidae"
   },
-  "65": {
-    "nombre": "pitotoy chico",
+  {
+    "name": "pitotoy chico",
+    "nameCC": "cientifico",
     "descripcion": "LOL soy un ave",
-    "url": "./style/img/birds/pitotoy chico.webp",
+    "informacion": "informacioninformosa",
+    "preview": "./style/img/birds/pitotoy chico.webp",
     "familia": "Scolopacidae"
   },
-  "66": {
-    "nombre": "becasa de mar",
+  {
+    "name": "becasa de mar",
+    "nameCC": "cientifico",
     "descripcion": "LOL soy un ave",
-    "url": "./style/img/birds/becasa de mar.webp",
+    "informacion": "informacioninformosa",
+    "preview": "./style/img/birds/becasa de mar.webp",
     "familia": "Scolopacidae"
   },
-  "67": {
-    "nombre": "playerito pectoral",
+  {
+    "name": "playerito pectoral",
+    "nameCC": "cientifico",
     "descripcion": "LOL soy un ave",
-    "url": "./style/img/birds/playerito pectoral.webp",
+    "informacion": "informacioninformosa",
+    "preview": "./style/img/birds/playerito pectoral.webp",
     "familia": "Scolopacidae"
   },
-  "68": {
-    "nombre": "playerito rabadilla blanca",
+  {
+    "name": "playerito rabadilla blanca",
+    "nameCC": "cientifico",
     "descripcion": "LOL soy un ave",
-    "url": "./style/img/birds/playerito rabadilla blanca.webp",
+    "informacion": "informacioninformosa",
+    "preview": "./style/img/birds/playerito rabadilla blanca.webp",
     "familia": "Scolopacidae"
   },
-  "69": {
-    "nombre": "playerito unicolor",
+  {
+    "name": "playerito unicolor",
+    "nameCC": "cientifico",
     "descripcion": "LOL soy un ave",
-    "url": "./style/img/birds/playerito unicolor.webp",
+    "informacion": "informacioninformosa",
+    "preview": "./style/img/birds/playerito unicolor.webp",
     "familia": "Scolopacidae"
   },
-  "70": {
-    "nombre": "becasina comun",
+  {
+    "name": "becasina comun",
+    "nameCC": "cientifico",
     "descripcion": "LOL soy un ave",
-    "url": "./style/img/birds/becasina comun.webp",
+    "informacion": "informacioninformosa",
+    "preview": "./style/img/birds/becasina comun.webp",
     "familia": "Scolopacidae"
   },
-  "71": {
-    "nombre": "falaropo comun",
+  {
+    "name": "falaropo comun",
+    "nameCC": "cientifico",
     "descripcion": "LOL soy un ave",
-    "url": "./style/img/birds/falaropo comun.webp",
+    "informacion": "informacioninformosa",
+    "preview": "./style/img/birds/falaropo comun.webp",
     "familia": "Phalaropodidae"
   },
-  "72": {
-    "nombre": "agachona chica",
+  {
+    "name": "agachona chica",
+    "nameCC": "cientifico",
     "descripcion": "LOL soy un ave",
-    "url": "./style/img/birds/agachona chica.webp",
+    "informacion": "informacioninformosa",
+    "preview": "./style/img/birds/agachona chica.webp",
     "familia": "Thinocoridae"
   },
-  "73": {
-    "nombre": "agachona de collar",
+  {
+    "name": "agachona de collar",
+    "nameCC": "cientifico",
     "descripcion": "LOL soy un ave",
-    "url": "./style/img/birds/agachona de collar.webp",
+    "informacion": "informacioninformosa",
+    "preview": "./style/img/birds/agachona de collar.webp",
     "familia": "Thinocoridae"
   },
-  "74": {
-    "nombre": "gaviote cocinera",
+  {
+    "name": "gaviote cocinera",
+    "nameCC": "cientifico",
     "descripcion": "LOL soy un ave",
-    "url": "./style/img/birds/gaviote cocinera.webp",
+    "informacion": "informacioninformosa",
+    "preview": "./style/img/birds/gaviote cocinera.webp",
     "familia": "Laridae"
   },
-  "75": {
-    "nombre": "gaviota capucho cafe",
+  {
+    "name": "gaviota capucho cafe",
+    "nameCC": "cientifico",
     "descripcion": "LOL soy un ave",
-    "url": "./style/img/birds/gaviota capucho cafe.webp",
+    "informacion": "informacioninformosa",
+    "preview": "./style/img/birds/gaviota capucho cafe.webp",
     "familia": "Laridae"
   },
-  "76": {
-    "nombre": "paloma manchada",
+  {
+    "name": "paloma manchada",
+    "nameCC": "cientifico",
     "descripcion": "LOL soy un ave",
-    "url": "./style/img/birds/paloma manchada.webp",
+    "informacion": "informacioninformosa",
+    "preview": "./style/img/birds/paloma manchada.webp",
     "familia": "Columbidae"
   },
-  "77": {
-    "nombre": "paloma casera",
+  {
+    "name": "paloma casera",
+    "nameCC": "cientifico",
     "descripcion": "LOL soy un ave",
-    "url": "./style/img/birds/paloma casera.webp",
+    "informacion": "informacioninformosa",
+    "preview": "./style/img/birds/paloma casera.webp",
     "familia": "Columbidae"
   },
-  "78": {
-    "nombre": "torcaza",
+  {
+    "name": "torcaza",
+    "nameCC": "cientifico",
     "descripcion": "LOL soy un ave",
-    "url": "./style/img/birds/torcaza.webp",
+    "informacion": "informacioninformosa",
+    "preview": "./style/img/birds/torcaza.webp",
     "familia": "Columbidae"
   },
-  "79": {
-    "nombre": "torcacita comun",
+  {
+    "name": "torcacita comun",
+    "nameCC": "cientifico",
     "descripcion": "LOL soy un ave",
-    "url": "./style/img/birds/torcacita comun.webp",
+    "informacion": "informacioninformosa",
+    "preview": "./style/img/birds/torcacita comun.webp",
     "familia": "Columbidae"
   },
-  "80": {
-    "nombre": "palomita cordillerana",
+  {
+    "name": "palomita cordillerana",
+    "nameCC": "cientifico",
     "descripcion": "LOL soy un ave",
-    "url": "./style/img/birds/palomita cordillerana.webp",
+    "informacion": "informacioninformosa",
+    "preview": "./style/img/birds/palomita cordillerana.webp",
     "familia": "Columbidae"
   },
-  "81": {
-    "nombre": "loro barranquero",
+  {
+    "name": "loro barranquero",
+    "nameCC": "cientifico",
     "descripcion": "LOL soy un ave",
-    "url": "./style/img/birds/loro barranquero.webp",
+    "informacion": "informacioninformosa",
+    "preview": "./style/img/birds/loro barranquero.webp",
     "familia": "Psittacidae"
   },
-  "82": {
-    "nombre": "cachaña",
+  {
+    "name": "cachaña",
+    "nameCC": "cientifico",
     "descripcion": "LOL soy un ave",
-    "url": "./style/img/birds/cachaña.webp",
+    "informacion": "informacioninformosa",
+    "preview": "./style/img/birds/cachaña.webp",
     "familia": "Psittacidae"
   },
-  "83": {
-    "nombre": "lechuza de campanario",
+  {
+    "name": "lechuza de campanario",
+    "nameCC": "cientifico",
     "descripcion": "LOL soy un ave",
-    "url": "./style/img/birds/lechuza de campanario.webp",
+    "informacion": "informacioninformosa",
+    "preview": "./style/img/birds/lechuza de campanario.webp",
     "familia": "Tytonidae"
   },
-  "84": {
-    "nombre": "ñacurutú",
+  {
+    "name": "ñacurutú",
+    "nameCC": "cientifico",
     "descripcion": "LOL soy un ave",
-    "url": "./style/img/birds/ñacurutú.webp",
+    "informacion": "informacioninformosa",
+    "preview": "./style/img/birds/ñacurutú.webp",
     "familia": "Strigidae"
   },
-  "85": {
-    "nombre": "lechucita vizcachera",
+  {
+    "name": "lechucita vizcachera",
+    "nameCC": "cientifico",
     "descripcion": "LOL soy un ave",
-    "url": "./style/img/birds/lechucita vizcachera.webp",
+    "informacion": "informacioninformosa",
+    "preview": "./style/img/birds/lechucita vizcachera.webp",
     "familia": "Strigidae"
   },
-  "86": {
-    "nombre": "cabure grande",
+  {
+    "name": "cabure grande",
+    "nameCC": "cientifico",
     "descripcion": "LOL soy un ave",
-    "url": "./style/img/birds/cabure grande.webp",
+    "informacion": "informacioninformosa",
+    "preview": "./style/img/birds/cabure grande.webp",
     "familia": "Strigidae"
   },
-  "87": {
-    "nombre": "lechuzon de campo",
+  {
+    "name": "lechuzon de campo",
+    "nameCC": "cientifico",
     "descripcion": "LOL soy un ave",
-    "url": "./style/img/birds/lechuzon de campo.webp",
+    "informacion": "informacioninformosa",
+    "preview": "./style/img/birds/lechuzon de campo.webp",
     "familia": "Strigidae"
   },
-  "88": {
-    "nombre": "atajacaminos ñañarca",
+  {
+    "name": "atajacaminos ñañarca",
+    "nameCC": "cientifico",
     "descripcion": "LOL soy un ave",
-    "url": "./style/img/birds/atajacaminos ñañarca.webp",
+    "informacion": "informacioninformosa",
+    "preview": "./style/img/birds/atajacaminos ñañarca.webp",
     "familia": "Caprimulgidae"
   },
-  "89": {
-    "nombre": "ñacunda",
+  {
+    "name": "ñacunda",
+    "nameCC": "cientifico",
     "descripcion": "LOL soy un ave",
-    "url": "./style/img/birds/ñacunda.webp",
+    "informacion": "informacioninformosa",
+    "preview": "./style/img/birds/ñacunda.webp",
     "familia": "Caprimulgidae"
   },
-  "90": {
-    "nombre": "picaflor andino",
+  {
+    "name": "picaflor andino",
+    "nameCC": "cientifico",
     "descripcion": "LOL soy un ave",
-    "url": "./style/img/birds/picaflor andino.webp",
+    "informacion": "informacioninformosa",
+    "preview": "./style/img/birds/picaflor andino.webp",
     "familia": "Trochilidae"
   },
-  "91": {
-    "nombre": "picaflor rubi",
+  {
+    "name": "picaflor rubi",
+    "nameCC": "cientifico",
     "descripcion": "LOL soy un ave",
-    "url": "./style/img/birds/picaflor rubi.webp",
+    "informacion": "informacioninformosa",
+    "preview": "./style/img/birds/picaflor rubi.webp",
     "familia": "Trochilidae"
   },
-  "92": {
-    "nombre": "martin pescador grande",
+  {
+    "name": "martin pescador grande",
+    "nameCC": "cientifico",
     "descripcion": "LOL soy un ave",
-    "url": "./style/img/birds/martin pescador grande.webp",
+    "informacion": "informacioninformosa",
+    "preview": "./style/img/birds/martin pescador grande.webp",
     "familia": "Alcedinidae"
   },
-  "93": {
-    "nombre": "carpintero pitio",
+  {
+    "name": "carpintero pitio",
+    "nameCC": "cientifico",
     "descripcion": "LOL soy un ave",
-    "url": "./style/img/birds/carpintero pitio.webp",
+    "informacion": "informacioninformosa",
+    "preview": "./style/img/birds/carpintero pitio.webp",
     "familia": "Picidae"
   },
-  "94": {
-    "nombre": "carpintero bataraz grande",
+  {
+    "name": "carpintero bataraz grande",
+    "nameCC": "cientifico",
     "descripcion": "LOL soy un ave",
-    "url": "./style/img/birds/carpintero bataraz grande.webp",
+    "informacion": "informacioninformosa",
+    "preview": "./style/img/birds/carpintero bataraz grande.webp",
     "familia": "Picidae"
   },
-  "95": {
-    "nombre": "carpintero gigante",
+  {
+    "name": "carpintero gigante",
+    "nameCC": "cientifico",
     "descripcion": "LOL soy un ave",
-    "url": "./style/img/birds/carpintero gigante.webp",
+    "informacion": "informacioninformosa",
+    "preview": "./style/img/birds/carpintero gigante.webp",
     "familia": "Picidae"
   },
-  "96": {
-    "nombre": "caminera colorada",
+  {
+    "name": "caminera colorada",
+    "nameCC": "cientifico",
     "descripcion": "LOL soy un ave",
-    "url": "./style/img/birds/caminera colorada.webp",
+    "informacion": "informacioninformosa",
+    "preview": "./style/img/birds/caminera colorada.webp",
     "familia": "Furnariidae"
   },
-  "97": {
-    "nombre": "caminera comun",
+  {
+    "name": "caminera comun",
+    "nameCC": "cientifico",
     "descripcion": "LOL soy un ave",
-    "url": "./style/img/birds/caminera comun.webp",
+    "informacion": "informacioninformosa",
+    "preview": "./style/img/birds/caminera comun.webp",
     "familia": "Furnariidae"
   },
-  "98": {
-    "nombre": "bandurrita comun",
+  {
+    "name": "bandurrita comun",
+    "nameCC": "cientifico",
     "descripcion": "LOL soy un ave",
-    "url": "./style/img/birds/bandurrita comun.webp",
+    "informacion": "informacioninformosa",
+    "preview": "./style/img/birds/bandurrita comun.webp",
     "familia": "Furnariidae"
   },
-  "99": {
-    "nombre": "bandurrita pico recto",
+  {
+    "name": "bandurrita pico recto",
+    "nameCC": "cientifico",
     "descripcion": "LOL soy un ave",
-    "url": "./style/img/birds/bandurrita pico recto.webp",
+    "informacion": "informacioninformosa",
+    "preview": "./style/img/birds/bandurrita pico recto.webp",
     "familia": "Furnariidae"
   },
-  "100": {
-    "nombre": "bandurrita patagonica",
+  {
+    "name": "bandurrita patagonica",
+    "nameCC": "cientifico",
     "descripcion": "LOL soy un ave",
-    "url": "./style/img/birds/bandurrita patagonica.webp",
+    "informacion": "informacioninformosa",
+    "preview": "./style/img/birds/bandurrita patagonica.webp",
     "familia": "Furnariidae"
   },
-  "101": {
-    "nombre": "remolinera comun",
+  {
+    "name": "remolinera comun",
+    "nameCC": "cientifico",
     "descripcion": "LOL soy un ave",
-    "url": "./style/img/birds/remolinera comun.webp",
+    "informacion": "informacioninformosa",
+    "preview": "./style/img/birds/remolinera comun.webp",
     "familia": "Furnariidae"
   },
-  "102": {
-    "nombre": "hornero",
+  {
+    "name": "hornero",
+    "nameCC": "cientifico",
     "descripcion": "LOL soy un ave",
-    "url": "./style/img/birds/hornero.webp",
+    "informacion": "informacioninformosa",
+    "preview": "./style/img/birds/hornero.webp",
     "familia": "Furnariidae"
   },
-  "103": {
-    "nombre": "cacholote pardo",
+  {
+    "name": "cacholote pardo",
+    "nameCC": "cientifico",
     "descripcion": "LOL soy un ave",
-    "url": "./style/img/birds/cacholote pardo.webp",
+    "informacion": "informacioninformosa",
+    "preview": "./style/img/birds/cacholote pardo.webp",
     "familia": "Furnariidae"
   },
-  "104": {
-    "nombre": "junquero",
+  {
+    "name": "junquero",
+    "nameCC": "cientifico",
     "descripcion": "LOL soy un ave",
-    "url": "./style/img/birds/junquero.webp",
+    "informacion": "informacioninformosa",
+    "preview": "./style/img/birds/junquero.webp",
     "familia": "Furnariidae"
   },
-  "105": {
-    "nombre": "colilarga",
+  {
+    "name": "colilarga",
+    "nameCC": "cientifico",
     "descripcion": "LOL soy un ave",
-    "url": "./style/img/birds/colilarga.webp",
+    "informacion": "informacioninformosa",
+    "preview": "./style/img/birds/colilarga.webp",
     "familia": "Furnariidae"
   },
-  "106": {
-    "nombre": "ralladito",
+  {
+    "name": "ralladito",
+    "nameCC": "cientifico",
     "descripcion": "LOL soy un ave",
-    "url": "./style/img/birds/ralladito.webp",
+    "informacion": "informacioninformosa",
+    "preview": "./style/img/birds/ralladito.webp",
     "familia": "Furnariidae"
   },
-  "107": {
-    "nombre": "canastero coludo",
+  {
+    "name": "canastero coludo",
+    "nameCC": "cientifico",
     "descripcion": "LOL soy un ave",
-    "url": "./style/img/birds/canastero coludo.webp",
+    "informacion": "informacioninformosa",
+    "preview": "./style/img/birds/canastero coludo.webp",
     "familia": "Furnariidae"
   },
-  "108": {
-    "nombre": "canastero palido",
+  {
+    "name": "canastero palido",
+    "nameCC": "cientifico",
     "descripcion": "LOL soy un ave",
-    "url": "./style/img/birds/canastero palido.webp",
+    "informacion": "informacioninformosa",
+    "preview": "./style/img/birds/canastero palido.webp",
     "familia": "Furnariidae"
   },
-  "109": {
-    "nombre": "canastero patagonico",
+  {
+    "name": "canastero patagonico",
+    "nameCC": "cientifico",
     "descripcion": "LOL soy un ave",
-    "url": "./style/img/birds/canastero patagonico.webp",
+    "informacion": "informacioninformosa",
+    "preview": "./style/img/birds/canastero patagonico.webp",
     "familia": "Furnariidae"
   },
-  "110": {
-    "nombre": "espartillero austral",
+  {
+    "name": "espartillero austral",
+    "nameCC": "cientifico",
     "descripcion": "LOL soy un ave",
-    "url": "./style/img/birds/espartillero austral.webp",
+    "informacion": "informacioninformosa",
+    "preview": "./style/img/birds/espartillero austral.webp",
     "familia": "Furnariidae"
   },
-  "111": {
-    "nombre": "coludito cola negra",
+  {
+    "name": "coludito cola negra",
+    "nameCC": "cientifico",
     "descripcion": "LOL soy un ave",
-    "url": "./style/img/birds/coludito cola negra.webp",
+    "informacion": "informacioninformosa",
+    "preview": "./style/img/birds/coludito cola negra.webp",
     "familia": "Furnariidae"
   },
-  "112": {
-    "nombre": "milano blanco",
+  {
+    "name": "milano blanco",
+    "nameCC": "cientifico",
     "descripcion": "LOL soy un ave",
-    "url": "./style/img/birds/milano blanco.webp",
+    "informacion": "informacioninformosa",
+    "preview": "./style/img/birds/milano blanco.webp",
     "familia": "Accipitridae"
   },
-  "113": {
-    "nombre": "chucao",
+  {
+    "name": "chucao",
+    "nameCC": "cientifico",
     "descripcion": "LOL soy un ave",
-    "url": "./style/img/birds/chucao.webp",
+    "informacion": "informacioninformosa",
+    "preview": "./style/img/birds/chucao.webp",
     "familia": "Rhinocryptidae"
   },
-  "114": {
-    "nombre": "huet-huet",
+  {
+    "name": "huet-huet",
+    "nameCC": "cientifico",
     "descripcion": "LOL soy un ave",
-    "url": "./style/img/birds/huet-huet.webp",
+    "informacion": "informacioninformosa",
+    "preview": "./style/img/birds/huet-huet.webp",
     "familia": "Rhinocryptidae"
   },
-  "115": {
-    "nombre": "churrin andino",
+  {
+    "name": "churrin andino",
+    "nameCC": "cientifico",
     "descripcion": "LOL soy un ave",
-    "url": "./style/img/birds/churrin andino.webp",
+    "informacion": "informacioninformosa",
+    "preview": "./style/img/birds/churrin andino.webp",
     "familia": "Rhinocryptidae"
   },
-  "116": {
-    "nombre": "gaucho grande",
+  {
+    "name": "gaucho grande",
+    "nameCC": "cientifico",
     "descripcion": "LOL soy un ave",
-    "url": "./style/img/birds/gaucho grande.webp",
+    "informacion": "informacioninformosa",
+    "preview": "./style/img/birds/gaucho grande.webp",
     "familia": "Tyrannidae"
   },
-  "117": {
-    "nombre": "gaucho comun",
+  {
+    "name": "gaucho comun",
+    "nameCC": "cientifico",
     "descripcion": "LOL soy un ave",
-    "url": "./style/img/birds/gaucho comun.webp",
+    "informacion": "informacioninformosa",
+    "preview": "./style/img/birds/gaucho comun.webp",
     "familia": "Tyrannidae"
   },
-  "118": {
-    "nombre": "gaucho serrano",
+  {
+    "name": "gaucho serrano",
+    "nameCC": "cientifico",
     "descripcion": "LOL soy un ave",
-    "url": "./style/img/birds/gaucho serrano.webp",
+    "informacion": "informacioninformosa",
+    "preview": "./style/img/birds/gaucho serrano.webp",
     "familia": "Tyrannidae"
   },
-  "119": {
-    "nombre": "monjita chocolate",
+  {
+    "name": "monjita chocolate",
+    "nameCC": "cientifico",
     "descripcion": "LOL soy un ave",
-    "url": "./style/img/birds/monjita chocolate.webp",
+    "informacion": "informacioninformosa",
+    "preview": "./style/img/birds/monjita chocolate.webp",
     "familia": "Tyrannidae"
   },
-  "120": {
-    "nombre": "monjita castaña",
+  {
+    "name": "monjita castaña",
+    "nameCC": "cientifico",
     "descripcion": "LOL soy un ave",
-    "url": "./style/img/birds/monjita castaña.webp",
+    "informacion": "informacioninformosa",
+    "preview": "./style/img/birds/monjita castaña.webp",
     "familia": "Tyrannidae"
   },
-  "121": {
-    "nombre": "dormilona cara negra",
+  {
+    "name": "dormilona cara negra",
+    "nameCC": "cientifico",
     "descripcion": "LOL soy un ave",
-    "url": "./style/img/birds/dormilona cara negra.webp",
+    "informacion": "informacioninformosa",
+    "preview": "./style/img/birds/dormilona cara negra.webp",
     "familia": "Tyrannidae"
   },
-  "122": {
-    "nombre": "dorminola canela",
+  {
+    "name": "dorminola canela",
+    "nameCC": "cientifico",
     "descripcion": "LOL soy un ave",
-    "url": "./style/img/birds/dorminola canela.webp",
+    "informacion": "informacioninformosa",
+    "preview": "./style/img/birds/dorminola canela.webp",
     "familia": "Tyrannidae"
   },
-  "123": {
-    "nombre": "dormilona ceja blanca",
+  {
+    "name": "dormilona ceja blanca",
+    "nameCC": "cientifico",
     "descripcion": "LOL soy un ave",
-    "url": "./style/img/birds/dormilona ceja blanca.webp",
+    "informacion": "informacioninformosa",
+    "preview": "./style/img/birds/dormilona ceja blanca.webp",
     "familia": "Tyrannidae"
   },
-  "124": {
-    "nombre": "dormilona fraile",
+  {
+    "name": "dormilona fraile",
+    "nameCC": "cientifico",
     "descripcion": "LOL soy un ave",
-    "url": "./style/img/birds/dormilona fraile.webp",
+    "informacion": "informacioninformosa",
+    "preview": "./style/img/birds/dormilona fraile.webp",
     "familia": "Tyrannidae"
   },
-  "125": {
-    "nombre": "dormilona chica",
+  {
+    "name": "dormilona chica",
+    "nameCC": "cientifico",
     "descripcion": "LOL soy un ave",
-    "url": "./style/img/birds/dormilona chica.webp",
+    "informacion": "informacioninformosa",
+    "preview": "./style/img/birds/dormilona chica.webp",
     "familia": "Tyrannidae"
   },
-  "126": {
-    "nombre": "sobrepuesto comun",
+  {
+    "name": "sobrepuesto comun",
+    "nameCC": "cientifico",
     "descripcion": "LOL soy un ave",
-    "url": "./style/img/birds/sobrepuesto comun.webp",
+    "informacion": "informacioninformosa",
+    "preview": "./style/img/birds/sobrepuesto comun.webp",
     "familia": "Tyrannidae"
   },
-  "127": {
-    "nombre": "pico de plata",
+  {
+    "name": "pico de plata",
+    "nameCC": "cientifico",
     "descripcion": "LOL soy un ave",
-    "url": "./style/img/birds/pico de plata.webp",
+    "informacion": "informacioninformosa",
+    "preview": "./style/img/birds/pico de plata.webp",
     "familia": "Tyrannidae"
   },
-  "128": {
-    "nombre": "viudita comun",
+  {
+    "name": "viudita comun",
+    "nameCC": "cientifico",
     "descripcion": "LOL soy un ave",
-    "url": "./style/img/birds/viudita comun.webp",
+    "informacion": "informacioninformosa",
+    "preview": "./style/img/birds/viudita comun.webp",
     "familia": "Tyrannidae"
   },
-  "129": {
-    "nombre": "pato anteojos",
+  {
+    "name": "pato anteojos",
+    "nameCC": "cientifico",
     "descripcion": "LOL soy un ave",
-    "url": "./style/img/birds/pato anteojos.webp",
+    "informacion": "informacioninformosa",
+    "preview": "./style/img/birds/pato anteojos.webp",
     "familia": "Anatidae"
   },
-  "130": {
-    "nombre": "tachuri sietecolores",
+  {
+    "name": "tachuri sietecolores",
+    "nameCC": "cientifico",
     "descripcion": "LOL soy un ave",
-    "url": "./style/img/birds/tachuri sietecolores.webp",
+    "informacion": "informacioninformosa",
+    "preview": "./style/img/birds/tachuri sietecolores.webp",
     "familia": "Tyrannidae"
   },
-  "131": {
-    "nombre": "cachudito pico negro",
+  {
+    "name": "cachudito pico negro",
+    "nameCC": "cientifico",
     "descripcion": "LOL soy un ave",
-    "url": "./style/img/birds/cachudito pico negro.webp",
+    "informacion": "informacioninformosa",
+    "preview": "./style/img/birds/cachudito pico negro.webp",
     "familia": "Tyrannidae"
   },
-  "132": {
-    "nombre": "fiofio silbon",
+  {
+    "name": "fiofio silbon",
+    "nameCC": "cientifico",
     "descripcion": "LOL soy un ave",
-    "url": "./style/img/birds/fiofio silbon.webp",
+    "informacion": "informacioninformosa",
+    "preview": "./style/img/birds/fiofio silbon.webp",
     "familia": "Tyrannidae"
   },
-  "133": {
-    "nombre": "peutren",
+  {
+    "name": "peutren",
+    "nameCC": "cientifico",
     "descripcion": "LOL soy un ave",
-    "url": "./style/img/birds/peutren.webp",
+    "informacion": "informacioninformosa",
+    "preview": "./style/img/birds/peutren.webp",
     "familia": "Tyrannidae"
   },
-  "134": {
-    "nombre": "rara",
+  {
+    "name": "rara",
+    "nameCC": "cientifico",
     "descripcion": "LOL soy un ave",
-    "url": "./style/img/birds/rara.webp",
+    "informacion": "informacioninformosa",
+    "preview": "./style/img/birds/rara.webp",
     "familia": "Phytotomidae"
   },
-  "135": {
-    "nombre": "golondrina tijerita",
+  {
+    "name": "golondrina tijerita",
+    "nameCC": "cientifico",
     "descripcion": "LOL soy un ave",
-    "url": "./style/img/birds/golondrina tijerita.webp",
+    "informacion": "informacioninformosa",
+    "preview": "./style/img/birds/golondrina tijerita.webp",
     "familia": "Hirundinidae"
   },
-  "136": {
-    "nombre": "golondrina rabadilla canela",
+  {
+    "name": "golondrina rabadilla canela",
+    "nameCC": "cientifico",
     "descripcion": "LOL soy un ave",
-    "url": "./style/img/birds/golondrina rabadilla canela.webp",
+    "informacion": "informacioninformosa",
+    "preview": "./style/img/birds/golondrina rabadilla canela.webp",
     "familia": "Hirundinidae"
   },
-  "137": {
-    "nombre": "golondrina negra",
+  {
+    "name": "golondrina negra",
+    "nameCC": "cientifico",
     "descripcion": "LOL soy un ave",
-    "url": "./style/img/birds/golondrina negra.webp",
+    "informacion": "informacioninformosa",
+    "preview": "./style/img/birds/golondrina negra.webp",
     "familia": "Hirundinidae"
   },
-  "138": {
-    "nombre": "golondrina patagonica",
+  {
+    "name": "golondrina patagonica",
+    "nameCC": "cientifico",
     "descripcion": "LOL soy un ave",
-    "url": "./style/img/birds/golondrina patagonica.webp",
+    "informacion": "informacioninformosa",
+    "preview": "./style/img/birds/golondrina patagonica.webp",
     "familia": "Hirundinidae"
   },
-  "139": {
-    "nombre": "golondrina barranquera",
+  {
+    "name": "golondrina barranquera",
+    "nameCC": "cientifico",
     "descripcion": "LOL soy un ave",
-    "url": "./style/img/birds/golondrina barranquera.webp",
+    "informacion": "informacioninformosa",
+    "preview": "./style/img/birds/golondrina barranquera.webp",
     "familia": "Hirundinidae"
   },
-  "140": {
-    "nombre": "ratona aperdizada",
+  {
+    "name": "ratona aperdizada",
+    "nameCC": "cientifico",
     "descripcion": "LOL soy un ave",
-    "url": "./style/img/birds/ratona aperdizada.webp",
+    "informacion": "informacioninformosa",
+    "preview": "./style/img/birds/ratona aperdizada.webp",
     "familia": "Troglodytidae"
   },
-  "141": {
-    "nombre": "ratona comun",
+  {
+    "name": "ratona comun",
+    "nameCC": "cientifico",
     "descripcion": "LOL soy un ave",
-    "url": "./style/img/birds/ratona comun.webp",
+    "informacion": "informacioninformosa",
+    "preview": "./style/img/birds/ratona comun.webp",
     "familia": "Troglodytidae"
   },
-  "142": {
-    "nombre": "calandria mora",
+  {
+    "name": "calandria mora",
+    "nameCC": "cientifico",
     "descripcion": "LOL soy un ave",
-    "url": "./style/img/birds/calandria mora.webp",
+    "informacion": "informacioninformosa",
+    "preview": "./style/img/birds/calandria mora.webp",
     "familia": "Mimidae"
   },
-  "143": {
-    "nombre": "cachirla comun",
+  {
+    "name": "cachirla comun",
+    "nameCC": "cientifico",
     "descripcion": "LOL soy un ave",
-    "url": "./style/img/birds/cachirla comun.webp",
+    "informacion": "informacioninformosa",
+    "preview": "./style/img/birds/cachirla comun.webp",
     "familia": "Motacillidae"
   },
-  "144": {
-    "nombre": "cachirla palida",
+  {
+    "name": "cachirla palida",
+    "nameCC": "cientifico",
     "descripcion": "LOL soy un ave",
-    "url": "./style/img/birds/cachirla palida.webp",
+    "informacion": "informacioninformosa",
+    "preview": "./style/img/birds/cachirla palida.webp",
     "familia": "Motacillidae"
   },
-  "145": {
-    "nombre": "gorrion",
+  {
+    "name": "gorrion",
+    "nameCC": "cientifico",
     "descripcion": "LOL soy un ave",
-    "url": "./style/img/birds/gorrion.webp",
+    "informacion": "informacioninformosa",
+    "preview": "./style/img/birds/gorrion.webp",
     "familia": "Ploceidae"
   },
-  "146": {
-    "nombre": "yalandino",
+  {
+    "name": "yalandino",
+    "nameCC": "cientifico",
     "descripcion": "LOL soy un ave",
-    "url": "./style/img/birds/yalandino.webp",
+    "informacion": "informacioninformosa",
+    "preview": "./style/img/birds/yalandino.webp",
     "familia": "Emberizidae"
   },
-  "147": {
-    "nombre": "diuca comun",
+  {
+    "name": "diuca comun",
+    "nameCC": "cientifico",
     "descripcion": "LOL soy un ave",
-    "url": "./style/img/birds/diuca comun.webp",
+    "informacion": "informacioninformosa",
+    "preview": "./style/img/birds/diuca comun.webp",
     "familia": "Emberizidae"
   },
-  "148": {
-    "nombre": "comesebo andino",
+  {
+    "name": "comesebo andino",
+    "nameCC": "cientifico",
     "descripcion": "LOL soy un ave",
-    "url": "./style/img/birds/comesebo andino.webp",
+    "informacion": "informacioninformosa",
+    "preview": "./style/img/birds/comesebo andino.webp",
     "familia": "Emberizidae"
   },
-  "149": {
-    "nombre": "comesebo patagonico",
+  {
+    "name": "comesebo patagonico",
+    "nameCC": "cientifico",
     "descripcion": "LOL soy un ave",
-    "url": "./style/img/birds/comesebo patagonico.webp",
+    "informacion": "informacioninformosa",
+    "preview": "./style/img/birds/comesebo patagonico.webp",
     "familia": "Emberizidae"
   },
-  "150": {
-    "nombre": "yal plomizo",
+  {
+    "name": "yal plomizo",
+    "nameCC": "cientifico",
     "descripcion": "LOL soy un ave",
-    "url": "./style/img/birds/yal plomizo.webp",
+    "informacion": "informacioninformosa",
+    "preview": "./style/img/birds/yal plomizo.webp",
     "familia": "Emberizidae"
   },
-  "151": {
-    "nombre": "yal negro",
+  {
+    "name": "yal negro",
+    "nameCC": "cientifico",
     "descripcion": "LOL soy un ave",
-    "url": "./style/img/birds/yal negro.webp",
+    "informacion": "informacioninformosa",
+    "preview": "./style/img/birds/yal negro.webp",
     "familia": "Emberizidae"
   },
-  "152": {
-    "nombre": "yal carbonero",
+  {
+    "name": "yal carbonero",
+    "nameCC": "cientifico",
     "descripcion": "LOL soy un ave",
-    "url": "./style/img/birds/yal carbonero.webp",
+    "informacion": "informacioninformosa",
+    "preview": "./style/img/birds/yal carbonero.webp",
     "familia": "Emberizidae"
   },
-  "153": {
-    "nombre": "misto",
+  {
+    "name": "misto",
+    "nameCC": "cientifico",
     "descripcion": "LOL soy un ave",
-    "url": "./style/img/birds/misto.webp",
+    "informacion": "informacioninformosa",
+    "preview": "./style/img/birds/misto.webp",
     "familia": "Emberizidae"
   },
-  "154": {
-    "nombre": "jilguero austral",
+  {
+    "name": "jilguero austral",
+    "nameCC": "cientifico",
     "descripcion": "LOL soy un ave",
-    "url": "./style/img/birds/jilguero austral.webp",
+    "informacion": "informacioninformosa",
+    "preview": "./style/img/birds/jilguero austral.webp",
     "familia": "Emberizidae"
   },
-  "155": {
-    "nombre": "chingolo",
+  {
+    "name": "chingolo",
+    "nameCC": "cientifico",
     "descripcion": "LOL soy un ave",
-    "url": "./style/img/birds/chingolo.webp",
+    "informacion": "informacioninformosa",
+    "preview": "./style/img/birds/chingolo.webp",
     "familia": "Emberizidae"
   },
-  "156": {
-    "nombre": "cabecita negra austral",
+  {
+    "name": "cabecita negra austral",
+    "nameCC": "cientifico",
     "descripcion": "LOL soy un ave",
-    "url": "./style/img/birds/cabecita negra austral.webp",
+    "informacion": "informacioninformosa",
+    "preview": "./style/img/birds/cabecita negra austral.webp",
     "familia": "Fringillidae"
   },
-  "157": {
-    "nombre": "varillero ala amarilla",
+  {
+    "name": "varillero ala amarilla",
+    "nameCC": "cientifico",
     "descripcion": "LOL soy un ave",
-    "url": "./style/img/birds/varillero ala amarilla.webp",
+    "informacion": "informacioninformosa",
+    "preview": "./style/img/birds/varillero ala amarilla.webp",
     "familia": "Icteridae"
   },
-  "158": {
-    "nombre": "tordo patagonico",
+  {
+    "name": "tordo patagonico",
+    "nameCC": "cientifico",
     "descripcion": "LOL soy un ave",
-    "url": "./style/img/birds/tordo patagonico.webp",
+    "informacion": "informacioninformosa",
+    "preview": "./style/img/birds/tordo patagonico.webp",
     "familia": "Icteridae"
   },
-  "159": {
-    "nombre": "tordo renegrido",
+  {
+    "name": "tordo renegrido",
+    "nameCC": "cientifico",
     "descripcion": "LOL soy un ave",
-    "url": "./style/img/birds/tordo renegrido.webp",
+    "informacion": "informacioninformosa",
+    "preview": "./style/img/birds/tordo renegrido.webp",
     "familia": "Icteridae"
   },
-  "160": {
-    "nombre": "tordo musico",
+  {
+    "name": "tordo musico",
+    "nameCC": "cientifico",
     "descripcion": "LOL soy un ave",
-    "url": "./style/img/birds/tordo musico.webp",
+    "informacion": "informacioninformosa",
+    "preview": "./style/img/birds/tordo musico.webp",
     "familia": "Icteridae"
   }
-}
+]
