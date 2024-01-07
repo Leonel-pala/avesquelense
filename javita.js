@@ -21,7 +21,7 @@ window.addEventListener("load", (e) => {
           lista.sort((a, b) => b.nombre.localeCompare(a.nombre));
         }
 
-        let largo = 1; //Object.keys(data).length;
+        let largo = 99; //Object.keys(data).length;
 
         if (y == "b") {
           aves.innerHTML = "";
