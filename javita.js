@@ -21,7 +21,7 @@ window.addEventListener("load", (e) => {
           lista.sort((a, b) => b.nombre.localeCompare(a.nombre));
         }
 
-        let largo = 99; //Object.keys(data).length;
+        let largo = 1; //Object.keys(data).length;
 
         if (y == "b") {
           aves.innerHTML = "";
@@ -47,7 +47,7 @@ window.addEventListener("load", (e) => {
                       <img class="birdIMG" src="${lista[i].preview}">
                           <h5 class="birdNAME">${lista[i].name}</h5>
                       <p class="birdDES">${lista[i].descripcion}</p>
-                  <a class="birdBTN" type="button" value="Mas detalles" class="btn"></a>
+                      <a class="birdBTN" value="Mas detalles" class="btn" href="./details.html?id=${i}">Mas detalles</a>
               </article>`;
           }
         } else {

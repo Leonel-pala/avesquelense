@@ -16,42 +16,47 @@
 }
 #DetailsBirds {
   position: relative;
+  display: grid;
+  grid-template-columns: 2fr 3fr;
+  grid-template-rows: auto 1fr;
   margin: auto;
   margin-top: 120px;
   background: #005b4c;
   width: 90%;
+  margin-bottom: 100px;
   min-height: 77vh;
-  display: grid;
-  grid-template-columns: 2fr 3fr;
 }
-
 #galleryIMG {
   position: relative;
+  height: 100%;
+  width: 100%;
+  grid-row-start: 1;
+  grid-row-end: 3;
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-template-rows: auto 1fr;
+  align-items: center;
+  justify-items: center;
 }
 #viewIMG {
   position: relative;
-  margin-top: 20px;
-  margin-bottom: 10px;
-  left: 50%;
-  transform: translate(-50%);
-  max-width: 80%;
-  max-height: 60%;
+  margin-top: 40px;
+  max-width: 90%;
+  max-height: 90%;
 }
 #carousel {
-  position: absolute;
-  left: 50%;
-  top: 68%;
-  transform: translate(-50%);
+  position: relative;
   background: #00816c;
-  height: 10%;
+  height: 50px;
   width: 80%;
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
   align-items: center;
   justify-items: center;
+  margin-top: 15px;
+  margin-bottom: auto;
 }
 .previewIMG {
-  background: red;
   width: 80%;
   height: 95%;
 }
@@ -70,7 +75,7 @@
   position: relative;
   display: inline-block;
   color: #fff;
-  font-size: 40px;
+  font-size: clamp(0px, 8vw, 40px);
 }
 
 #nameCC {
@@ -79,25 +84,28 @@
   position: relative;
   display: inline-block;
   color: #ffffffbd;
-  font-size: 30px;
+  font-size: clamp(0px, 7vw, 30px);
 }
 #descripcion {
-  background: #fff;
-
+  background: #ffffff;
   position: relative;
   margin-bottom: 20px;
   left: 0px;
   margin-right: 20px;
   padding: 30px 20px 0 20px;
   display: grid;
+  grid-template-columns: 100%;
   grid-template-rows: auto auto 1fr;
 }
 b {
+  display: inline-block;
   color: #494949;
-  font-size: 20px;
+  font-size: clamp(17px, 5.5vw, 20px);
 }
-p {
-  font-size: 25px;
+#info {
+  display: inline-block;
+  width: 90%;
+  font-size: clamp(20px, 5vw, 25px);
 }
 
 #moreDetails {
@@ -106,22 +114,60 @@ p {
   color: #fff;
   background: #00b698;
   border-radius: 10px;
-
   margin-top: auto;
   margin-bottom: 20px;
   margin-left: auto;
   display: grid;
   column-gap: 40px;
   row-gap: 5px;
-  grid-template-columns: 1fr 1fr 1fr;
-  grid-template-rows: auto 1fr;
+  grid-template-columns: 100px 100px 100px;
 }
 h5 {
   letter-spacing: 1.5px;
-  font-size: 17px;
+
+  font-size: clamp(13px, 5vw, 17px);
   text-decoration: underline;
 }
 span {
   letter-spacing: 1.5px;
-  font-size: 20px;
+  font-size: clamp(15px, 5vw, 20px);
+}
+
+@media only screen and (max-width: 600px) {
+  #DetailsBirds {
+    grid-template-columns: 100%;
+    grid-template-rows: auto 1fr auto;
+  }
+  #titles {
+    padding-left: 15px;
+    grid-row-start: 1;
+  }
+  #galleryIMG {
+    grid-row-start: 2;
+    grid-row-end: 2;
+  }
+  #viewIMG {
+    margin-top: 0;
+    min-height: 100%;
+    margin-bottom: auto;
+  }
+  #carousel {
+    margin-bottom: 20px;
+  }
+  #descripcion {
+    grid-template-rows: auto auto auto;
+    margin: 0 15px;
+    margin-bottom: 40px;
+  }
+  #moreDetails {
+    grid-template-columns: repeat(auto-fill, minmax(100px, 100%));
+
+    column-gap: 0;
+    width: 70%;
+    grid-auto-rows: minmax(30px, auto);
+    row-gap: 10px;
+    margin: auto;
+    margin-top: 10px;
+    margin-bottom: 15px;
+  }
 }
