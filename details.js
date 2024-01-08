@@ -15,5 +15,26 @@ window.addEventListener("load", (e) => {
       details
         .querySelector("#viewIMG")
         .setAttribute("src", `${pajarraco.preview}`);
+
+      const galleryIMG = Object.values(data[id].galleryIMG);
+      const contenedor = document.querySelector("#carousel");
+      contenedor.style.gridTemplateColumns = `repeat(${galleryIMG.length}, 1fr)`;
+      galleryIMG.forEach((element, i) => {
+        details.querySelector(
+          "#carousel"
+        ).innerHTML += `<img id="${i}" class="previewIMG" src="${element}" />`;
+      });
+      document.querySelectorAll(".previewIMG").forEach((element) => {
+        element.addEventListener("click", function (e) {
+          change(this.getAttribute("src"), this.getAttribute("id"));
+        });
+      });
+      //FINISh
     });
+  function change(x, y) {
+    let view = document.querySelector("#viewIMG").getAttribute("src");
+    document.querySelector("#viewIMG").setAttribute("src", x);
+
+    document.getElementById(`${y}`).setAttribute("src", view);
+  }
 });

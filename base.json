@@ -5,6 +5,12 @@
     "descripcion": "La loica es un ave colorida y activa, conocida por su plumaje rojo y negro. Se encuentra comúnmente en zonas de pastizales y campos abiertos.",
     "informacion": "informacioninformosa",
     "preview": "./style/img/birds/loica.webp",
+    "galleryIMG": {
+      "0": "https://www.ecoregistros.org/site/images/dataimages/2021/08/01/455465/Loica-Comun--Leistes-loyca-.jpg",
+      "1": "https://i0.wp.com/yosoyfauna.cl/wp-content/uploads/2022/10/cr_loica_31x24_alb__brd_th_.png?fit=695%2C818&ssl=1",
+      "2": "https://i0.wp.com/laderasur.com/wp-content/uploads/2021/06/33029-2-768x512.jpg?fit=768%2C512&ssl=1",
+      "3": "https://i0.wp.com/laderasur.com/wp-content/uploads/2021/06/243536041.jpg?ssl=1"
+    },
     "familia": "Icteridae"
   },
   {
@@ -13,6 +19,7 @@
     "descripcion": "La bandurria es un ave grande con un plumaje mayoritariamente negro y blanco. Suele habitar en áreas cercanas a cuerpos de agua y se alimenta de insectos y pequeños vertebrados.",
     "informacion": "informacioninformosa",
     "preview": "./style/img/birds/bandurria.webp",
+    "galleryIMG": { "0": "" },
     "familia": "Threskiornithidae"
   },
   {
@@ -21,6 +28,7 @@
     "descripcion": "El chimango es un ave rapaz que se encuentra comúnmente en América del Sur. Tiene un plumaje oscuro y se alimenta de carroña, así como de pequeños animales.",
     "informacion": "informacioninformosa",
     "preview": "./style/img/birds/chimango.webp",
+    "galleryIMG": { "0": "" },
     "familia": "Falconidae"
   },
   {
@@ -29,6 +37,7 @@
     "descripcion": "El diucon es un ave de tamaño mediano con un plumaje principalmente gris. Es conocido por su canto melodioso y se encuentra en diversas regiones de Sudamérica.",
     "informacion": "informacioninformosa",
     "preview": "./style/img/birds/diucon.webp",
+    "galleryIMG": { "0": "" },
     "familia": "Tyrannidae"
   },
   {
@@ -37,6 +46,7 @@
     "descripcion": "El tero, también conocido como chorlito, es un ave migratoria que se encuentra en América. Tiene un plumaje terroso y es conocido por su llamado característico.",
     "informacion": "informacioninformosa",
     "preview": "./style/img/birds/tero.webp",
+    "galleryIMG": { "0": "" },
     "familia": "Recurvirostridae"
   },
   {
@@ -45,6 +55,7 @@
     "descripcion": "El zorsal es un ave canora con un plumaje variado y colorido. Es conocido por su canto melodioso y se encuentra en diversas regiones de América.",
     "informacion": "informacioninformosa",
     "preview": "./style/img/birds/zorsal.webp",
+    "galleryIMG": { "0": "" },
     "familia": "Turdidae"
   },
   {
@@ -53,6 +64,7 @@
     "descripcion": "LOL soy un ave",
     "informacion": "informacioninformosa",
     "preview": "./style/img/birds/choique.webp",
+    "galleryIMG": { "0": "" },
     "familia": "Rheidae"
   },
   {
@@ -61,6 +73,7 @@
     "descripcion": "LOL soy un ave",
     "informacion": "informacioninformosa",
     "preview": "./style/img/birds/marineta comun.webp",
+    "galleryIMG": { "0": "" },
     "familia": "Tinamidae"
   },
   {
@@ -69,6 +82,7 @@
     "descripcion": "LOL soy un ave",
     "informacion": "informacioninformosa",
     "preview": "./style/img/birds/quiula patagonica.webp",
+    "galleryIMG": { "0": "" },
     "familia": "Tinamidae"
   },
   {
@@ -77,6 +91,7 @@
     "descripcion": "LOL soy un ave",
     "informacion": "informacioninformosa",
     "preview": "./style/img/birds/maca comun.webp",
+    "galleryIMG": { "0": "" },
     "familia": "Podicipedidae"
   },
   {
@@ -85,6 +100,7 @@
     "descripcion": "LOL soy un ave",
     "informacion": "informacioninformosa",
     "preview": "./style/img/birds/maca plateado.webp",
+    "galleryIMG": { "0": "" },
     "familia": "Podicipedidae"
   },
   {
@@ -93,6 +109,7 @@
     "descripcion": "LOL soy un ave",
     "informacion": "informacioninformosa",
     "preview": "./style/img/birds/maca pico grueso.webp",
+    "galleryIMG": { "0": "" },
     "familia": "Podicipedidae"
   },
   {
@@ -101,6 +118,7 @@
     "descripcion": "LOL soy un ave",
     "informacion": "informacioninformosa",
     "preview": "./style/img/birds/maca grande.webp",
+    "galleryIMG": { "0": "" },
     "familia": "Podicipedidae"
   },
   {
@@ -109,6 +127,7 @@
     "descripcion": "LOL soy un ave",
     "informacion": "informacioninformosa",
     "preview": "./style/img/birds/bigua.webp",
+    "galleryIMG": { "0": "" },
     "familia": "Phalacrocoracidae"
   },
   {
@@ -117,6 +136,7 @@
     "descripcion": "LOL soy un ave",
     "informacion": "informacioninformosa",
     "preview": "./style/img/birds/garza mora.webp",
+    "galleryIMG": { "0": "" },
     "familia": "Ardeidae"
   },
   {
@@ -125,6 +145,7 @@
     "descripcion": "LOL soy un ave",
     "informacion": "informacioninformosa",
     "preview": "./style/img/birds/garza blanca.webp",
+    "galleryIMG": { "0": "" },
     "familia": "Ardeidae"
   },
   {
@@ -133,6 +154,7 @@
     "descripcion": "LOL soy un ave",
     "informacion": "informacioninformosa",
     "preview": "./style/img/birds/garcita blanca.webp",
+    "galleryIMG": { "0": "" },
     "familia": "Ardeidae"
   },
   {
@@ -141,6 +163,7 @@
     "descripcion": "LOL soy un ave",
     "informacion": "informacioninformosa",
     "preview": "./style/img/birds/garcita bueyera.webp",
+    "galleryIMG": { "0": "" },
     "familia": "Ardeidae"
   },
   {
@@ -149,6 +172,7 @@
     "descripcion": "LOL soy un ave",
     "informacion": "informacioninformosa",
     "preview": "./style/img/birds/garza bruja.webp",
+    "galleryIMG": { "0": "" },
     "familia": "Ardeidae"
   },
   {
@@ -157,6 +181,7 @@
     "descripcion": "LOL soy un ave",
     "informacion": "informacioninformosa",
     "preview": "./style/img/birds/pato overo.webp",
+    "galleryIMG": { "0": "" },
     "familia": "Anatidae"
   },
   {
@@ -165,6 +190,7 @@
     "descripcion": "LOL soy un ave",
     "informacion": "informacioninformosa",
     "preview": "./style/img/birds/cuervillo de cañada.webp",
+    "galleryIMG": { "0": "" },
     "familia": "Threskiornithidae"
   },
   {
@@ -173,6 +199,7 @@
     "descripcion": "LOL soy un ave",
     "informacion": "informacioninformosa",
     "preview": "./style/img/birds/flamenco austral.webp",
+    "galleryIMG": { "0": "" },
     "familia": "Phoenicopteridae"
   },
   {
@@ -181,6 +208,7 @@
     "descripcion": "LOL soy un ave",
     "informacion": "informacioninformosa",
     "preview": "./style/img/birds/coscoroba.webp",
+    "galleryIMG": { "0": "" },
     "familia": "Anatidae"
   },
   {
@@ -189,6 +217,7 @@
     "descripcion": "LOL soy un ave",
     "informacion": "informacioninformosa",
     "preview": "./style/img/birds/cisne cuello negro.webp",
+    "galleryIMG": { "0": "" },
     "familia": "Anatidae"
   },
   {
@@ -197,6 +226,7 @@
     "descripcion": "LOL soy un ave",
     "informacion": "informacioninformosa",
     "preview": "./style/img/birds/pato crestón.webp",
+    "galleryIMG": { "0": "" },
     "familia": "Anatidae"
   },
   {
@@ -205,6 +235,7 @@
     "descripcion": "LOL soy un ave",
     "informacion": "informacioninformosa",
     "preview": "./style/img/birds/cauquen comun.webp",
+    "galleryIMG": { "0": "" },
     "familia": "Anatidae"
   },
   {
@@ -213,6 +244,7 @@
     "descripcion": "LOL soy un ave",
     "informacion": "informacioninformosa",
     "preview": "./style/img/birds/cauquen real.webp",
+    "galleryIMG": { "0": "" },
     "familia": "Anatidae"
   },
   {
@@ -221,6 +253,7 @@
     "descripcion": "LOL soy un ave",
     "informacion": "informacioninformosa",
     "preview": "./style/img/birds/pato maicero.webp",
+    "galleryIMG": { "0": "" },
     "familia": "Anatidae"
   },
   {
@@ -229,6 +262,7 @@
     "descripcion": "LOL soy un ave",
     "informacion": "informacioninformosa",
     "preview": "./style/img/birds/pato barcino.webp",
+    "galleryIMG": { "0": "" },
     "familia": "Anatidae"
   },
   {
@@ -237,6 +271,7 @@
     "descripcion": "LOL soy un ave",
     "informacion": "informacioninformosa",
     "preview": "./style/img/birds/pato cuchara.webp",
+    "galleryIMG": { "0": "" },
     "familia": "Anatidae"
   },
   {
@@ -245,6 +280,7 @@
     "descripcion": "LOL soy un ave",
     "informacion": "informacioninformosa",
     "preview": "./style/img/birds/pato colorado.webp",
+    "galleryIMG": { "0": "" },
     "familia": "Anatidae"
   },
   {
@@ -253,6 +289,7 @@
     "descripcion": "LOL soy un ave",
     "informacion": "informacioninformosa",
     "preview": "./style/img/birds/pato gargantilla.webp",
+    "galleryIMG": { "0": "" },
     "familia": "Anatidae"
   },
   {
@@ -261,6 +298,7 @@
     "descripcion": "LOL soy un ave",
     "informacion": "informacioninformosa",
     "preview": "./style/img/birds/pato capuchino.webp",
+    "galleryIMG": { "0": "" },
     "familia": "Anatidae"
   },
   {
@@ -269,6 +307,7 @@
     "descripcion": "LOL soy un ave",
     "informacion": "informacioninformosa",
     "preview": "./style/img/birds/quetro volador.webp",
+    "galleryIMG": { "0": "" },
     "familia": "Anatidae"
   },
   {
@@ -277,6 +316,7 @@
     "descripcion": "LOL soy un ave",
     "informacion": "informacioninformosa",
     "preview": "./style/img/birds/pato picazo.webp",
+    "galleryIMG": { "0": "" },
     "familia": "Anatidae"
   },
   {
@@ -285,6 +325,7 @@
     "descripcion": "LOL soy un ave",
     "informacion": "informacioninformosa",
     "preview": "./style/img/birds/pato zambullidor chico.webp",
+    "galleryIMG": { "0": "" },
     "familia": "Anatidae"
   },
   {
@@ -293,6 +334,7 @@
     "descripcion": "LOL soy un ave",
     "informacion": "informacioninformosa",
     "preview": "./style/img/birds/condor andino.webp",
+    "galleryIMG": { "0": "" },
     "familia": "Cathartidae"
   },
   {
@@ -301,6 +343,7 @@
     "descripcion": "LOL soy un ave",
     "informacion": "informacioninformosa",
     "preview": "./style/img/birds/jote cabeza colorada.webp",
+    "galleryIMG": { "0": "" },
     "familia": "Cathartidae"
   },
   {
@@ -309,6 +352,7 @@
     "descripcion": "LOL soy un ave",
     "informacion": "informacioninformosa",
     "preview": "./style/img/birds/jote cabeza negra.webp",
+    "galleryIMG": { "0": "" },
     "familia": "Cathartidae"
   },
   {
@@ -317,6 +361,7 @@
     "descripcion": "LOL soy un ave",
     "informacion": "informacioninformosa",
     "preview": "./style/img/birds/aguila mora.webp",
+    "galleryIMG": { "0": "" },
     "familia": "Accipitridae"
   },
   {
@@ -325,6 +370,7 @@
     "descripcion": "LOL soy un ave",
     "informacion": "informacioninformosa",
     "preview": "./style/img/birds/gavilan mixto.webp",
+    "galleryIMG": { "0": "" },
     "familia": "Accipitridae"
   },
   {
@@ -333,6 +379,7 @@
     "descripcion": "LOL soy un ave",
     "informacion": "informacioninformosa",
     "preview": "./style/img/birds/gavilan ceniciento.webp",
+    "galleryIMG": { "0": "" },
     "familia": "Accipitridae"
   },
   {
@@ -341,6 +388,7 @@
     "descripcion": "LOL soy un ave",
     "informacion": "informacioninformosa",
     "preview": "./style/img/birds/aguilucho comun.webp",
+    "galleryIMG": { "0": "" },
     "familia": "Accipitridae"
   },
   {
@@ -349,6 +397,7 @@
     "descripcion": "LOL soy un ave",
     "informacion": "informacioninformosa",
     "preview": "./style/img/birds/agilucho alas largas.webp",
+    "galleryIMG": { "0": "" },
     "familia": "Accipitridae"
   },
   {
@@ -357,6 +406,7 @@
     "descripcion": "LOL soy un ave",
     "informacion": "informacioninformosa",
     "preview": "./style/img/birds/halcon peregrino.webp",
+    "galleryIMG": { "0": "" },
     "familia": "Falconidae"
   },
   {
@@ -365,6 +415,7 @@
     "descripcion": "LOL soy un ave",
     "informacion": "informacioninformosa",
     "preview": "./style/img/birds/halcon plomizo.webp",
+    "galleryIMG": { "0": "" },
     "familia": "Falconidae"
   },
   {
@@ -373,6 +424,7 @@
     "descripcion": "LOL soy un ave",
     "informacion": "informacioninformosa",
     "preview": "./style/img/birds/halconcicto colorado.webp",
+    "galleryIMG": { "0": "" },
     "familia": "Falconidae"
   },
   {
@@ -381,6 +433,7 @@
     "descripcion": "LOL soy un ave",
     "informacion": "informacioninformosa",
     "preview": "./style/img/birds/carancho.webp",
+    "galleryIMG": { "0": "" },
     "familia": "Falconidae"
   },
   {
@@ -389,6 +442,7 @@
     "descripcion": "LOL soy un ave",
     "informacion": "informacioninformosa",
     "preview": "./style/img/birds/codorniz de california.webp",
+    "galleryIMG": { "0": "" },
     "familia": "Phasianidae"
   },
   {
@@ -397,6 +451,7 @@
     "descripcion": "LOL soy un ave",
     "informacion": "informacioninformosa",
     "preview": "./style/img/birds/aguatero.webp",
+    "galleryIMG": { "0": "" },
     "familia": "Rostratulidae"
   },
   {
@@ -405,6 +460,7 @@
     "descripcion": "LOL soy un ave",
     "informacion": "informacioninformosa",
     "preview": "./style/img/birds/gallineta comun.webp",
+    "galleryIMG": { "0": "" },
     "familia": "Rallidae"
   },
   {
@@ -413,6 +469,7 @@
     "descripcion": "LOL soy un ave",
     "informacion": "informacioninformosa",
     "preview": "./style/img/birds/gallineta chica.webp",
+    "galleryIMG": { "0": "" },
     "familia": "Rallidae"
   },
   {
@@ -421,6 +478,7 @@
     "descripcion": "LOL soy un ave",
     "informacion": "informacioninformosa",
     "preview": "./style/img/birds/gallareta ligas rojas.webp",
+    "galleryIMG": { "0": "" },
     "familia": "Rallidae"
   },
   {
@@ -429,6 +487,7 @@
     "descripcion": "LOL soy un ave",
     "informacion": "informacioninformosa",
     "preview": "./style/img/birds/gallareta chica.webp",
+    "galleryIMG": { "0": "" },
     "familia": "Rallidae"
   },
   {
@@ -437,6 +496,7 @@
     "descripcion": "LOL soy un ave",
     "informacion": "informacioninformosa",
     "preview": "./style/img/birds/gallareta escudete rojo.webp",
+    "galleryIMG": { "0": "" },
     "familia": "Rallidae"
   },
   {
@@ -445,6 +505,7 @@
     "descripcion": "LOL soy un ave",
     "informacion": "informacioninformosa",
     "preview": "./style/img/birds/pollona pintada.webp",
+    "galleryIMG": { "0": "" },
     "familia": "Rallidae"
   },
   {
@@ -453,6 +514,7 @@
     "descripcion": "LOL soy un ave",
     "informacion": "informacioninformosa",
     "preview": "./style/img/birds/ostrero austral.webp",
+    "galleryIMG": { "0": "" },
     "familia": "Haematopodidae"
   },
   {
@@ -461,6 +523,7 @@
     "descripcion": "LOL soy un ave",
     "informacion": "informacioninformosa",
     "preview": "./style/img/birds/tero real.webp",
+    "galleryIMG": { "0": "" },
     "familia": "Recurvirostridae"
   },
   {
@@ -469,6 +532,7 @@
     "descripcion": "LOL soy un ave",
     "informacion": "informacioninformosa",
     "preview": "./style/img/birds/chorlo pampa.webp",
+    "galleryIMG": { "0": "" },
     "familia": "Recurvirostridae"
   },
   {
@@ -477,6 +541,7 @@
     "descripcion": "LOL soy un ave",
     "informacion": "informacioninformosa",
     "preview": "./style/img/birds/chorlo cabezon.webp",
+    "galleryIMG": { "0": "" },
     "familia": "Recurvirostridae"
   },
   {
@@ -485,6 +550,7 @@
     "descripcion": "LOL soy un ave",
     "informacion": "informacioninformosa",
     "preview": "./style/img/birds/chorlito doble collar.webp",
+    "galleryIMG": { "0": "" },
     "familia": "Recurvirostridae"
   },
   {
@@ -493,6 +559,7 @@
     "descripcion": "LOL soy un ave",
     "informacion": "informacioninformosa",
     "preview": "./style/img/birds/chorlito de collar.webp",
+    "galleryIMG": { "0": "" },
     "familia": "Recurvirostridae"
   },
   {
@@ -501,6 +568,7 @@
     "descripcion": "LOL soy un ave",
     "informacion": "informacioninformosa",
     "preview": "./style/img/birds/chorlito pecho canela.webp",
+    "galleryIMG": { "0": "" },
     "familia": "Recurvirostridae"
   },
   {
@@ -509,6 +577,7 @@
     "descripcion": "LOL soy un ave",
     "informacion": "informacioninformosa",
     "preview": "./style/img/birds/pitotoy grande.webp",
+    "galleryIMG": { "0": "" },
     "familia": "Scolopacidae"
   },
   {
@@ -517,6 +586,7 @@
     "descripcion": "LOL soy un ave",
     "informacion": "informacioninformosa",
     "preview": "./style/img/birds/pitotoy chico.webp",
+    "galleryIMG": { "0": "" },
     "familia": "Scolopacidae"
   },
   {
@@ -525,6 +595,7 @@
     "descripcion": "LOL soy un ave",
     "informacion": "informacioninformosa",
     "preview": "./style/img/birds/becasa de mar.webp",
+    "galleryIMG": { "0": "" },
     "familia": "Scolopacidae"
   },
   {
@@ -533,6 +604,7 @@
     "descripcion": "LOL soy un ave",
     "informacion": "informacioninformosa",
     "preview": "./style/img/birds/playerito pectoral.webp",
+    "galleryIMG": { "0": "" },
     "familia": "Scolopacidae"
   },
   {
@@ -541,6 +613,7 @@
     "descripcion": "LOL soy un ave",
     "informacion": "informacioninformosa",
     "preview": "./style/img/birds/playerito rabadilla blanca.webp",
+    "galleryIMG": { "0": "" },
     "familia": "Scolopacidae"
   },
   {
@@ -549,6 +622,7 @@
     "descripcion": "LOL soy un ave",
     "informacion": "informacioninformosa",
     "preview": "./style/img/birds/playerito unicolor.webp",
+    "galleryIMG": { "0": "" },
     "familia": "Scolopacidae"
   },
   {
@@ -557,6 +631,7 @@
     "descripcion": "LOL soy un ave",
     "informacion": "informacioninformosa",
     "preview": "./style/img/birds/becasina comun.webp",
+    "galleryIMG": { "0": "" },
     "familia": "Scolopacidae"
   },
   {
@@ -565,6 +640,7 @@
     "descripcion": "LOL soy un ave",
     "informacion": "informacioninformosa",
     "preview": "./style/img/birds/falaropo comun.webp",
+    "galleryIMG": { "0": "" },
     "familia": "Phalaropodidae"
   },
   {
@@ -573,6 +649,7 @@
     "descripcion": "LOL soy un ave",
     "informacion": "informacioninformosa",
     "preview": "./style/img/birds/agachona chica.webp",
+    "galleryIMG": { "0": "" },
     "familia": "Thinocoridae"
   },
   {
@@ -581,6 +658,7 @@
     "descripcion": "LOL soy un ave",
     "informacion": "informacioninformosa",
     "preview": "./style/img/birds/agachona de collar.webp",
+    "galleryIMG": { "0": "" },
     "familia": "Thinocoridae"
   },
   {
@@ -589,6 +667,7 @@
     "descripcion": "LOL soy un ave",
     "informacion": "informacioninformosa",
     "preview": "./style/img/birds/gaviote cocinera.webp",
+    "galleryIMG": { "0": "" },
     "familia": "Laridae"
   },
   {
@@ -597,6 +676,7 @@
     "descripcion": "LOL soy un ave",
     "informacion": "informacioninformosa",
     "preview": "./style/img/birds/gaviota capucho cafe.webp",
+    "galleryIMG": { "0": "" },
     "familia": "Laridae"
   },
   {
@@ -605,6 +685,7 @@
     "descripcion": "LOL soy un ave",
     "informacion": "informacioninformosa",
     "preview": "./style/img/birds/paloma manchada.webp",
+    "galleryIMG": { "0": "" },
     "familia": "Columbidae"
   },
   {
@@ -613,6 +694,7 @@
     "descripcion": "LOL soy un ave",
     "informacion": "informacioninformosa",
     "preview": "./style/img/birds/paloma casera.webp",
+    "galleryIMG": { "0": "" },
     "familia": "Columbidae"
   },
   {
@@ -621,6 +703,7 @@
     "descripcion": "LOL soy un ave",
     "informacion": "informacioninformosa",
     "preview": "./style/img/birds/torcaza.webp",
+    "galleryIMG": { "0": "" },
     "familia": "Columbidae"
   },
   {
@@ -629,6 +712,7 @@
     "descripcion": "LOL soy un ave",
     "informacion": "informacioninformosa",
     "preview": "./style/img/birds/torcacita comun.webp",
+    "galleryIMG": { "0": "" },
     "familia": "Columbidae"
   },
   {
@@ -637,6 +721,7 @@
     "descripcion": "LOL soy un ave",
     "informacion": "informacioninformosa",
     "preview": "./style/img/birds/palomita cordillerana.webp",
+    "galleryIMG": { "0": "" },
     "familia": "Columbidae"
   },
   {
@@ -645,6 +730,7 @@
     "descripcion": "LOL soy un ave",
     "informacion": "informacioninformosa",
     "preview": "./style/img/birds/loro barranquero.webp",
+    "galleryIMG": { "0": "" },
     "familia": "Psittacidae"
   },
   {
@@ -653,6 +739,7 @@
     "descripcion": "LOL soy un ave",
     "informacion": "informacioninformosa",
     "preview": "./style/img/birds/cachaña.webp",
+    "galleryIMG": { "0": "" },
     "familia": "Psittacidae"
   },
   {
@@ -661,6 +748,7 @@
     "descripcion": "LOL soy un ave",
     "informacion": "informacioninformosa",
     "preview": "./style/img/birds/lechuza de campanario.webp",
+    "galleryIMG": { "0": "" },
     "familia": "Tytonidae"
   },
   {
@@ -669,6 +757,7 @@
     "descripcion": "LOL soy un ave",
     "informacion": "informacioninformosa",
     "preview": "./style/img/birds/ñacurutú.webp",
+    "galleryIMG": { "0": "" },
     "familia": "Strigidae"
   },
   {
@@ -677,6 +766,7 @@
     "descripcion": "LOL soy un ave",
     "informacion": "informacioninformosa",
     "preview": "./style/img/birds/lechucita vizcachera.webp",
+    "galleryIMG": { "0": "" },
     "familia": "Strigidae"
   },
   {
@@ -685,6 +775,7 @@
     "descripcion": "LOL soy un ave",
     "informacion": "informacioninformosa",
     "preview": "./style/img/birds/cabure grande.webp",
+    "galleryIMG": { "0": "" },
     "familia": "Strigidae"
   },
   {
@@ -693,6 +784,7 @@
     "descripcion": "LOL soy un ave",
     "informacion": "informacioninformosa",
     "preview": "./style/img/birds/lechuzon de campo.webp",
+    "galleryIMG": { "0": "" },
     "familia": "Strigidae"
   },
   {
@@ -701,6 +793,7 @@
     "descripcion": "LOL soy un ave",
     "informacion": "informacioninformosa",
     "preview": "./style/img/birds/atajacaminos ñañarca.webp",
+    "galleryIMG": { "0": "" },
     "familia": "Caprimulgidae"
   },
   {
@@ -709,6 +802,7 @@
     "descripcion": "LOL soy un ave",
     "informacion": "informacioninformosa",
     "preview": "./style/img/birds/ñacunda.webp",
+    "galleryIMG": { "0": "" },
     "familia": "Caprimulgidae"
   },
   {
@@ -717,6 +811,7 @@
     "descripcion": "LOL soy un ave",
     "informacion": "informacioninformosa",
     "preview": "./style/img/birds/picaflor andino.webp",
+    "galleryIMG": { "0": "" },
     "familia": "Trochilidae"
   },
   {
@@ -725,6 +820,7 @@
     "descripcion": "LOL soy un ave",
     "informacion": "informacioninformosa",
     "preview": "./style/img/birds/picaflor rubi.webp",
+    "galleryIMG": { "0": "" },
     "familia": "Trochilidae"
   },
   {
@@ -733,6 +829,7 @@
     "descripcion": "LOL soy un ave",
     "informacion": "informacioninformosa",
     "preview": "./style/img/birds/martin pescador grande.webp",
+    "galleryIMG": { "0": "" },
     "familia": "Alcedinidae"
   },
   {
@@ -741,6 +838,7 @@
     "descripcion": "LOL soy un ave",
     "informacion": "informacioninformosa",
     "preview": "./style/img/birds/carpintero pitio.webp",
+    "galleryIMG": { "0": "" },
     "familia": "Picidae"
   },
   {
@@ -749,6 +847,7 @@
     "descripcion": "LOL soy un ave",
     "informacion": "informacioninformosa",
     "preview": "./style/img/birds/carpintero bataraz grande.webp",
+    "galleryIMG": { "0": "" },
     "familia": "Picidae"
   },
   {
@@ -757,6 +856,7 @@
     "descripcion": "LOL soy un ave",
     "informacion": "informacioninformosa",
     "preview": "./style/img/birds/carpintero gigante.webp",
+    "galleryIMG": { "0": "" },
     "familia": "Picidae"
   },
   {
@@ -765,6 +865,7 @@
     "descripcion": "LOL soy un ave",
     "informacion": "informacioninformosa",
     "preview": "./style/img/birds/caminera colorada.webp",
+    "galleryIMG": { "0": "" },
     "familia": "Furnariidae"
   },
   {
@@ -773,6 +874,7 @@
     "descripcion": "LOL soy un ave",
     "informacion": "informacioninformosa",
     "preview": "./style/img/birds/caminera comun.webp",
+    "galleryIMG": { "0": "" },
     "familia": "Furnariidae"
   },
   {
@@ -781,6 +883,7 @@
     "descripcion": "LOL soy un ave",
     "informacion": "informacioninformosa",
     "preview": "./style/img/birds/bandurrita comun.webp",
+    "galleryIMG": { "0": "" },
     "familia": "Furnariidae"
   },
   {
@@ -789,6 +892,7 @@
     "descripcion": "LOL soy un ave",
     "informacion": "informacioninformosa",
     "preview": "./style/img/birds/bandurrita pico recto.webp",
+    "galleryIMG": { "0": "" },
     "familia": "Furnariidae"
   },
   {
@@ -797,6 +901,7 @@
     "descripcion": "LOL soy un ave",
     "informacion": "informacioninformosa",
     "preview": "./style/img/birds/bandurrita patagonica.webp",
+    "galleryIMG": { "0": "" },
     "familia": "Furnariidae"
   },
   {
@@ -805,6 +910,7 @@
     "descripcion": "LOL soy un ave",
     "informacion": "informacioninformosa",
     "preview": "./style/img/birds/remolinera comun.webp",
+    "galleryIMG": { "0": "" },
     "familia": "Furnariidae"
   },
   {
@@ -813,6 +919,7 @@
     "descripcion": "LOL soy un ave",
     "informacion": "informacioninformosa",
     "preview": "./style/img/birds/hornero.webp",
+    "galleryIMG": { "0": "" },
     "familia": "Furnariidae"
   },
   {
@@ -821,6 +928,7 @@
     "descripcion": "LOL soy un ave",
     "informacion": "informacioninformosa",
     "preview": "./style/img/birds/cacholote pardo.webp",
+    "galleryIMG": { "0": "" },
     "familia": "Furnariidae"
   },
   {
@@ -829,6 +937,7 @@
     "descripcion": "LOL soy un ave",
     "informacion": "informacioninformosa",
     "preview": "./style/img/birds/junquero.webp",
+    "galleryIMG": { "0": "" },
     "familia": "Furnariidae"
   },
   {
@@ -837,6 +946,7 @@
     "descripcion": "LOL soy un ave",
     "informacion": "informacioninformosa",
     "preview": "./style/img/birds/colilarga.webp",
+    "galleryIMG": { "0": "" },
     "familia": "Furnariidae"
   },
   {
@@ -845,6 +955,7 @@
     "descripcion": "LOL soy un ave",
     "informacion": "informacioninformosa",
     "preview": "./style/img/birds/ralladito.webp",
+    "galleryIMG": { "0": "" },
     "familia": "Furnariidae"
   },
   {
@@ -853,6 +964,7 @@
     "descripcion": "LOL soy un ave",
     "informacion": "informacioninformosa",
     "preview": "./style/img/birds/canastero coludo.webp",
+    "galleryIMG": { "0": "" },
     "familia": "Furnariidae"
   },
   {
@@ -861,6 +973,7 @@
     "descripcion": "LOL soy un ave",
     "informacion": "informacioninformosa",
     "preview": "./style/img/birds/canastero palido.webp",
+    "galleryIMG": { "0": "" },
     "familia": "Furnariidae"
   },
   {
@@ -869,6 +982,7 @@
     "descripcion": "LOL soy un ave",
     "informacion": "informacioninformosa",
     "preview": "./style/img/birds/canastero patagonico.webp",
+    "galleryIMG": { "0": "" },
     "familia": "Furnariidae"
   },
   {
@@ -877,6 +991,7 @@
     "descripcion": "LOL soy un ave",
     "informacion": "informacioninformosa",
     "preview": "./style/img/birds/espartillero austral.webp",
+    "galleryIMG": { "0": "" },
     "familia": "Furnariidae"
   },
   {
@@ -885,6 +1000,7 @@
     "descripcion": "LOL soy un ave",
     "informacion": "informacioninformosa",
     "preview": "./style/img/birds/coludito cola negra.webp",
+    "galleryIMG": { "0": "" },
     "familia": "Furnariidae"
   },
   {
@@ -893,6 +1009,7 @@
     "descripcion": "LOL soy un ave",
     "informacion": "informacioninformosa",
     "preview": "./style/img/birds/milano blanco.webp",
+    "galleryIMG": { "0": "" },
     "familia": "Accipitridae"
   },
   {
@@ -901,6 +1018,7 @@
     "descripcion": "LOL soy un ave",
     "informacion": "informacioninformosa",
     "preview": "./style/img/birds/chucao.webp",
+    "galleryIMG": { "0": "" },
     "familia": "Rhinocryptidae"
   },
   {
@@ -909,6 +1027,7 @@
     "descripcion": "LOL soy un ave",
     "informacion": "informacioninformosa",
     "preview": "./style/img/birds/huet-huet.webp",
+    "galleryIMG": { "0": "" },
     "familia": "Rhinocryptidae"
   },
   {
@@ -917,6 +1036,7 @@
     "descripcion": "LOL soy un ave",
     "informacion": "informacioninformosa",
     "preview": "./style/img/birds/churrin andino.webp",
+    "galleryIMG": { "0": "" },
     "familia": "Rhinocryptidae"
   },
   {
@@ -925,6 +1045,7 @@
     "descripcion": "LOL soy un ave",
     "informacion": "informacioninformosa",
     "preview": "./style/img/birds/gaucho grande.webp",
+    "galleryIMG": { "0": "" },
     "familia": "Tyrannidae"
   },
   {
@@ -933,6 +1054,7 @@
     "descripcion": "LOL soy un ave",
     "informacion": "informacioninformosa",
     "preview": "./style/img/birds/gaucho comun.webp",
+    "galleryIMG": { "0": "" },
     "familia": "Tyrannidae"
   },
   {
@@ -941,6 +1063,7 @@
     "descripcion": "LOL soy un ave",
     "informacion": "informacioninformosa",
     "preview": "./style/img/birds/gaucho serrano.webp",
+    "galleryIMG": { "0": "" },
     "familia": "Tyrannidae"
   },
   {
@@ -949,6 +1072,7 @@
     "descripcion": "LOL soy un ave",
     "informacion": "informacioninformosa",
     "preview": "./style/img/birds/monjita chocolate.webp",
+    "galleryIMG": { "0": "" },
     "familia": "Tyrannidae"
   },
   {
@@ -957,6 +1081,7 @@
     "descripcion": "LOL soy un ave",
     "informacion": "informacioninformosa",
     "preview": "./style/img/birds/monjita castaña.webp",
+    "galleryIMG": { "0": "" },
     "familia": "Tyrannidae"
   },
   {
@@ -965,6 +1090,7 @@
     "descripcion": "LOL soy un ave",
     "informacion": "informacioninformosa",
     "preview": "./style/img/birds/dormilona cara negra.webp",
+    "galleryIMG": { "0": "" },
     "familia": "Tyrannidae"
   },
   {
@@ -973,6 +1099,7 @@
     "descripcion": "LOL soy un ave",
     "informacion": "informacioninformosa",
     "preview": "./style/img/birds/dorminola canela.webp",
+    "galleryIMG": { "0": "" },
     "familia": "Tyrannidae"
   },
   {
@@ -981,6 +1108,7 @@
     "descripcion": "LOL soy un ave",
     "informacion": "informacioninformosa",
     "preview": "./style/img/birds/dormilona ceja blanca.webp",
+    "galleryIMG": { "0": "" },
     "familia": "Tyrannidae"
   },
   {
@@ -989,6 +1117,7 @@
     "descripcion": "LOL soy un ave",
     "informacion": "informacioninformosa",
     "preview": "./style/img/birds/dormilona fraile.webp",
+    "galleryIMG": { "0": "" },
     "familia": "Tyrannidae"
   },
   {
@@ -997,6 +1126,7 @@
     "descripcion": "LOL soy un ave",
     "informacion": "informacioninformosa",
     "preview": "./style/img/birds/dormilona chica.webp",
+    "galleryIMG": { "0": "" },
     "familia": "Tyrannidae"
   },
   {
@@ -1005,6 +1135,7 @@
     "descripcion": "LOL soy un ave",
     "informacion": "informacioninformosa",
     "preview": "./style/img/birds/sobrepuesto comun.webp",
+    "galleryIMG": { "0": "" },
     "familia": "Tyrannidae"
   },
   {
@@ -1013,6 +1144,7 @@
     "descripcion": "LOL soy un ave",
     "informacion": "informacioninformosa",
     "preview": "./style/img/birds/pico de plata.webp",
+    "galleryIMG": { "0": "" },
     "familia": "Tyrannidae"
   },
   {
@@ -1021,6 +1153,7 @@
     "descripcion": "LOL soy un ave",
     "informacion": "informacioninformosa",
     "preview": "./style/img/birds/viudita comun.webp",
+    "galleryIMG": { "0": "" },
     "familia": "Tyrannidae"
   },
   {
@@ -1029,6 +1162,7 @@
     "descripcion": "LOL soy un ave",
     "informacion": "informacioninformosa",
     "preview": "./style/img/birds/pato anteojos.webp",
+    "galleryIMG": { "0": "" },
     "familia": "Anatidae"
   },
   {
@@ -1037,6 +1171,7 @@
     "descripcion": "LOL soy un ave",
     "informacion": "informacioninformosa",
     "preview": "./style/img/birds/tachuri sietecolores.webp",
+    "galleryIMG": { "0": "" },
     "familia": "Tyrannidae"
   },
   {
@@ -1045,6 +1180,7 @@
     "descripcion": "LOL soy un ave",
     "informacion": "informacioninformosa",
     "preview": "./style/img/birds/cachudito pico negro.webp",
+    "galleryIMG": { "0": "" },
     "familia": "Tyrannidae"
   },
   {
@@ -1053,6 +1189,7 @@
     "descripcion": "LOL soy un ave",
     "informacion": "informacioninformosa",
     "preview": "./style/img/birds/fiofio silbon.webp",
+    "galleryIMG": { "0": "" },
     "familia": "Tyrannidae"
   },
   {
@@ -1061,6 +1198,7 @@
     "descripcion": "LOL soy un ave",
     "informacion": "informacioninformosa",
     "preview": "./style/img/birds/peutren.webp",
+    "galleryIMG": { "0": "" },
     "familia": "Tyrannidae"
   },
   {
@@ -1069,6 +1207,7 @@
     "descripcion": "LOL soy un ave",
     "informacion": "informacioninformosa",
     "preview": "./style/img/birds/rara.webp",
+    "galleryIMG": { "0": "" },
     "familia": "Phytotomidae"
   },
   {
@@ -1077,6 +1216,7 @@
     "descripcion": "LOL soy un ave",
     "informacion": "informacioninformosa",
     "preview": "./style/img/birds/golondrina tijerita.webp",
+    "galleryIMG": { "0": "" },
     "familia": "Hirundinidae"
   },
   {
@@ -1085,6 +1225,7 @@
     "descripcion": "LOL soy un ave",
     "informacion": "informacioninformosa",
     "preview": "./style/img/birds/golondrina rabadilla canela.webp",
+    "galleryIMG": { "0": "" },
     "familia": "Hirundinidae"
   },
   {
@@ -1093,6 +1234,7 @@
     "descripcion": "LOL soy un ave",
     "informacion": "informacioninformosa",
     "preview": "./style/img/birds/golondrina negra.webp",
+    "galleryIMG": { "0": "" },
     "familia": "Hirundinidae"
   },
   {
@@ -1101,6 +1243,7 @@
     "descripcion": "LOL soy un ave",
     "informacion": "informacioninformosa",
     "preview": "./style/img/birds/golondrina patagonica.webp",
+    "galleryIMG": { "0": "" },
     "familia": "Hirundinidae"
   },
   {
@@ -1109,6 +1252,7 @@
     "descripcion": "LOL soy un ave",
     "informacion": "informacioninformosa",
     "preview": "./style/img/birds/golondrina barranquera.webp",
+    "galleryIMG": { "0": "" },
     "familia": "Hirundinidae"
   },
   {
@@ -1117,6 +1261,7 @@
     "descripcion": "LOL soy un ave",
     "informacion": "informacioninformosa",
     "preview": "./style/img/birds/ratona aperdizada.webp",
+    "galleryIMG": { "0": "" },
     "familia": "Troglodytidae"
   },
   {
@@ -1125,6 +1270,7 @@
     "descripcion": "LOL soy un ave",
     "informacion": "informacioninformosa",
     "preview": "./style/img/birds/ratona comun.webp",
+    "galleryIMG": { "0": "" },
     "familia": "Troglodytidae"
   },
   {
@@ -1133,6 +1279,7 @@
     "descripcion": "LOL soy un ave",
     "informacion": "informacioninformosa",
     "preview": "./style/img/birds/calandria mora.webp",
+    "galleryIMG": { "0": "" },
     "familia": "Mimidae"
   },
   {
@@ -1141,6 +1288,7 @@
     "descripcion": "LOL soy un ave",
     "informacion": "informacioninformosa",
     "preview": "./style/img/birds/cachirla comun.webp",
+    "galleryIMG": { "0": "" },
     "familia": "Motacillidae"
   },
   {
@@ -1149,6 +1297,7 @@
     "descripcion": "LOL soy un ave",
     "informacion": "informacioninformosa",
     "preview": "./style/img/birds/cachirla palida.webp",
+    "galleryIMG": { "0": "" },
     "familia": "Motacillidae"
   },
   {
@@ -1157,6 +1306,7 @@
     "descripcion": "LOL soy un ave",
     "informacion": "informacioninformosa",
     "preview": "./style/img/birds/gorrion.webp",
+    "galleryIMG": { "0": "" },
     "familia": "Ploceidae"
   },
   {
@@ -1165,6 +1315,7 @@
     "descripcion": "LOL soy un ave",
     "informacion": "informacioninformosa",
     "preview": "./style/img/birds/yalandino.webp",
+    "galleryIMG": { "0": "" },
     "familia": "Emberizidae"
   },
   {
@@ -1173,6 +1324,7 @@
     "descripcion": "LOL soy un ave",
     "informacion": "informacioninformosa",
     "preview": "./style/img/birds/diuca comun.webp",
+    "galleryIMG": { "0": "" },
     "familia": "Emberizidae"
   },
   {
@@ -1181,6 +1333,7 @@
     "descripcion": "LOL soy un ave",
     "informacion": "informacioninformosa",
     "preview": "./style/img/birds/comesebo andino.webp",
+    "galleryIMG": { "0": "" },
     "familia": "Emberizidae"
   },
   {
@@ -1189,6 +1342,7 @@
     "descripcion": "LOL soy un ave",
     "informacion": "informacioninformosa",
     "preview": "./style/img/birds/comesebo patagonico.webp",
+    "galleryIMG": { "0": "" },
     "familia": "Emberizidae"
   },
   {
@@ -1197,6 +1351,7 @@
     "descripcion": "LOL soy un ave",
     "informacion": "informacioninformosa",
     "preview": "./style/img/birds/yal plomizo.webp",
+    "galleryIMG": { "0": "" },
     "familia": "Emberizidae"
   },
   {
@@ -1205,6 +1360,7 @@
     "descripcion": "LOL soy un ave",
     "informacion": "informacioninformosa",
     "preview": "./style/img/birds/yal negro.webp",
+    "galleryIMG": { "0": "" },
     "familia": "Emberizidae"
   },
   {
@@ -1213,6 +1369,7 @@
     "descripcion": "LOL soy un ave",
     "informacion": "informacioninformosa",
     "preview": "./style/img/birds/yal carbonero.webp",
+    "galleryIMG": { "0": "" },
     "familia": "Emberizidae"
   },
   {
@@ -1221,6 +1378,7 @@
     "descripcion": "LOL soy un ave",
     "informacion": "informacioninformosa",
     "preview": "./style/img/birds/misto.webp",
+    "galleryIMG": { "0": "" },
     "familia": "Emberizidae"
   },
   {
@@ -1229,6 +1387,7 @@
     "descripcion": "LOL soy un ave",
     "informacion": "informacioninformosa",
     "preview": "./style/img/birds/jilguero austral.webp",
+    "galleryIMG": { "0": "" },
     "familia": "Emberizidae"
   },
   {
@@ -1237,6 +1396,7 @@
     "descripcion": "LOL soy un ave",
     "informacion": "informacioninformosa",
     "preview": "./style/img/birds/chingolo.webp",
+    "galleryIMG": { "0": "" },
     "familia": "Emberizidae"
   },
   {
@@ -1245,6 +1405,7 @@
     "descripcion": "LOL soy un ave",
     "informacion": "informacioninformosa",
     "preview": "./style/img/birds/cabecita negra austral.webp",
+    "galleryIMG": { "0": "" },
     "familia": "Fringillidae"
   },
   {
@@ -1253,6 +1414,7 @@
     "descripcion": "LOL soy un ave",
     "informacion": "informacioninformosa",
     "preview": "./style/img/birds/varillero ala amarilla.webp",
+    "galleryIMG": { "0": "" },
     "familia": "Icteridae"
   },
   {
@@ -1261,6 +1423,7 @@
     "descripcion": "LOL soy un ave",
     "informacion": "informacioninformosa",
     "preview": "./style/img/birds/tordo patagonico.webp",
+    "galleryIMG": { "0": "" },
     "familia": "Icteridae"
   },
   {
@@ -1269,6 +1432,7 @@
     "descripcion": "LOL soy un ave",
     "informacion": "informacioninformosa",
     "preview": "./style/img/birds/tordo renegrido.webp",
+    "galleryIMG": { "0": "" },
     "familia": "Icteridae"
   },
   {
@@ -1277,6 +1441,7 @@
     "descripcion": "LOL soy un ave",
     "informacion": "informacioninformosa",
     "preview": "./style/img/birds/tordo musico.webp",
+    "galleryIMG": { "0": "" },
     "familia": "Icteridae"
   }
 ]
